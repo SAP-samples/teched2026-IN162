@@ -69,16 +69,18 @@ After enabling Integration cell runtime, following instructions to follow to cre
 
  <br>![](/exercises/ex1/images/ex1_07.png)    
 
-7. Enter the following details to create API from scratch and click to **Next**.
+7. Now choose option via uploading speciation file. Click to **Upload'**.
+
+   Enter the following details to create API by uploading open api specification file and click to **Add**.
 
    | Field | Value |
    | --- | --- |
-   | Name| |
-   | Short Description| ``
+   | File name|  <br>![](/exercises/ex1/images/)|
+   | Target/ Destination|  <br>![](/exercises/ex1/images/ex1_09.png)  |
    | ID| `` |
    | URL | `` |
 
-
+ <br>![](/exercises/ex1/images/ex1_08.png)  
 
 ## Summary
 
