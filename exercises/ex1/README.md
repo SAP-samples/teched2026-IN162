@@ -23,23 +23,19 @@ Newly available API artifact should be deployed on newly available cloud-based r
 Click to **activate** button if not activated. 
 
 <br>![](/exercises/ex1/images/ex1_01.png)
+********************************check with Marco **************************************
 
+## Exercise 1.2 create your first API artifact via URL/ Open spec file.
 
-## Exercise 1.2 Sub Exercise 2 Description
+After enabling Integration cell runtime, following instructions to follow to create your first API artifact. 
 
-After completing these steps you will have...
+1.	Create a package in your SAP Integration Suite tenant.
+   
+Now that you are logged into the tenant.<br> 
+**Create a new Package** from the **Integration and APIs** sub-menu under the **Design** menu (Click on the 'hamburger' icon on the left to launch the menu, if it's hidden).
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+<br>![](/exercises/ex1/images/ex1_01.png)
 
-```
 
 2.	Click here.
 <br>![](/exercises/ex1/images/01_02_0010.png)
