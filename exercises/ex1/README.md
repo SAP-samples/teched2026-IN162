@@ -110,12 +110,11 @@ Once successfully deployed, you should see successfull message at bottom.
 
 
 
-10. **Now you have successfully added your first API artifact and deployed it.**
+10. **Now you have successfully added your first API artifact and deployed it.**<br><br>
 
 
 
 ## Exercise 1.3 Create API artifact via API Provider.
-
 
 
 1. 
