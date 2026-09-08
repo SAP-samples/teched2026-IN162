@@ -75,7 +75,7 @@ After enabling Integration cell runtime, following instructions to follow to cre
 
    | Field | Value |
    | --- | --- |
-   | File name|  <br>![](/exercises/ex1/images/)|
+   | File name|  <br>![](exercises/ex1/images/OP_PURCHASEORDER_0001.json)|
    | Target/ Destination|  <br>![](/exercises/ex1/images/ex1_09.png)  |
    | ID| `` |
    | URL | `` |
