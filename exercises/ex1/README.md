@@ -16,7 +16,7 @@ API-centric integration brings API design and integration capabilities together 
 
 2.	Enable or check Integration cell runtime.
 > [!NOTE]
-> We have activated integration cell runtime already. but in case if you want to enable into your companies specific tenant please follow this screenshot.
+> We have activated integration cell runtime already. but in case if you want to enable into your company's specific tenant please follow this screenshot.
 
 Click to runtime on left side on main page and check in the list if integration cell is activated or not.<br>
 Newly available API artifact should be deployed on newly available cloud-based runtime ‘integration cell’. <br>
