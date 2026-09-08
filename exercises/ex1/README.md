@@ -62,7 +62,7 @@ After enabling Integration cell runtime, following instructions to follow to cre
 <br>![](/exercises/ex1/images/ex1_06.png)   
 
 > [!NOTE]
-> Please include information about both runtime profiles. An API artifact can be added to either runtime profile. However, the same artifact cannot be deployed to a second
+> An API artifact can be added to either runtime profile. However, the same artifact cannot be deployed to a second
 > runtime if it is already deployed on the first runtime.
 
 6. Select first method **URL or Specification**
@@ -75,12 +75,15 @@ After enabling Integration cell runtime, following instructions to follow to cre
 
    | Field | Value |
    | --- | --- |
-   | File name| [click here](https://github.com/SAP-samples/teched2026-IN162/blob/main/exercises/ex1/images/OP_PURCHASEORDER_0001.json) download this json and upload to your file name|
+   | File name|  <br>![click here]download this json and upload to your file name(https://github.com/SAP-samples/teched2026-IN162/blob/main/exercises/ex1/images/OP_PURCHASEORDER_0001.json)|
    | Target/ Destination|  <br>![](/exercises/ex1/images/ex1_09.png)  |
    | ID| `` |
    | URL | `` |
 
  <br>![](/exercises/ex1/images/ex1_08.png)  
+
+
+ 
 
 ## Summary
 
