@@ -45,11 +45,12 @@ After enabling Integration cell runtime, following instructions to follow to cre
 3. Enter the following details to describe the package and **Save** it.<br>
    After the Package is successfully created, go to the **Artifacts** tab.
 
-   | Feature | Description |
+   | Field | Value |
    | --- | --- |
-   | API-centric integration | Exposes business capabilities through APIs |
-   | MCP Gateway | Provides governed access for AI agents |
-   | SAP Integration Suite | Connects applications, APIs, and processes |
+   | Name| TechEd 2026 IN162-0** (replace ** with your assigned user identifier)|
+   | Short Description| ´´´This package demonstrates three different methods for creating API artifacts in SAP Integration Suite: using a backend URL, importing an existing API definition, and creating an API from an API specification.´´´|
+   | Version | ´´´1.0.0´´´ |
+   | Vendor | ´´´SAP´´´ |
 
 ## Summary
 
