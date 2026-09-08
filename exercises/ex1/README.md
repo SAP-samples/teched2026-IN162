@@ -127,6 +127,14 @@ Once successfully deployed, you should see successfull message at bottom.
 <br>![](/exercises/ex1/images/ex1_12.png)  
 
 
+
+2. Select Destination of Service now.
+
+
+<br>![](/exercises/ex1/images/ex1_13.png)  
+
+
+
 ## Summary
 
 You've now ...
