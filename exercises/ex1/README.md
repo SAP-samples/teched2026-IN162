@@ -35,7 +35,7 @@ After enabling Integration cell runtime, following instructions to follow to cre
    Now that you are logged into the tenant.<br> 
    **Create a new Package** from the **Integration and APIs** sub-menu under the **Design** menu (Click on the 'hamburger' icon on the left to launch the menu, if it's hidden).
 
-<br>![](/exercises/ex1/images/ex1_01.png)
+<br>![](/exercises/ex1/images/ex1_02.png)
 
 
 2.	Click here.
