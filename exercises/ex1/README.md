@@ -4,7 +4,7 @@ API-centric integration brings API design and integration capabilities together 
 
 ## Exercise 1.1 Enable/check integration cell runtime
 
-1. Log on to your assigned SAP Integration Suite tenant
+1. Log on to your assigned SAP Integration Suite tenant<br>
 
    - [SAP Integration suite tenant for user 1 to user 20]([https://workshop02a.integrationsuite-cpi049.cfapps.eu10-003.hana.ondemand.com/shell/home])
     
