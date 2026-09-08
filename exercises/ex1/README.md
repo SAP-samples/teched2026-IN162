@@ -152,6 +152,9 @@ Once successfully deployed, you should see successfull message at bottom.
    |API version|	1.0.0|
    |Runtime profile |	Integration Cell|
 
+<br>![](/exercises/ex1/images/ex1_14.png)  
+
+
 4. Now **copy** below prompt to generate open API specificiation file and ***click to Generate***.
 
 ```Prompt
@@ -159,9 +162,9 @@ Create a REST API with three operations for managing ServiceNow incidents. The b
 Operation 1 — Query incidents. Method GET on path /. Retrieves incidents matching an encoded query. Optional query parameters: sysparm_query (string, an encoded query like number=INC0010002 or active=true^priority=1), sysparm_limit (integer, max number of records), sysparm_fields (string, comma-separated list of fields to return), and sysparm_display_value (string, one of true, false, or all). Returns a JSON object with a result array; each item has number, short_description, description, state, and sys_id (all strings).
 Operation 2 — Get incident by sys_id. Method GET on path /{sys_id}, where sys_id is a required string path parameter. Returns a JSON object with a result object containing number, short_description, description, state, and sys_id.
 Operation 3 — Create incident. Method POST on path /. Accepts a JSON request body with short_description (string) and description (string). Returns the created record as a result object including number and sys_id.
-
 ```
 
+<br>![](/exercises/ex1/images/ex1_15.png)  
 
 
 <br>
