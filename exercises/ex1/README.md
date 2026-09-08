@@ -137,18 +137,20 @@ Once successfully deployed, you should see successfull message at bottom.
 <br>![](/exercises/ex1/images/ex1_13.png)  
 
 
-3. Provide following API details and **click to Next**.
+3. Provide following API details and **click to Next**.<br>
 
-**| Field | Value|**
-|name 	|TicketCreationAPI_userXXX
-|ID|TicketCreationAPI_userXXX
-|API Provider | 	servicenow
-|Relative URL|	/api/now/table/incident
-|Service type |	REST
-|API Base path	|/ticketcreation
-|API state| 	Active
-|API version|	1.0.0
-|Runtime profile |	Integration Cell
+
+   | Field | Value |
+   | --- | --- |
+ |name 	|TicketCreationAPI_userXXX|
+|ID|TicketCreationAPI_userXXX|
+|API Provider | 	servicenow|
+|Relative URL|	/api/now/table/incident |
+|Service type |	REST|
+|API Base path	|/ticketcreation|
+|API state| 	Active|
+|API version|	1.0.0|
+|Runtime profile |	Integration Cell|
 
 
 
