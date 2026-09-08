@@ -38,8 +38,9 @@ After enabling Integration cell runtime, following instructions to follow to cre
 <br>![](/exercises/ex1/images/ex1_02.png)
 
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+2.	Click to **create** button.
+   
+<br>![](/exercises/ex1/images/ex1_03.png)
 
 
 ## Summary
