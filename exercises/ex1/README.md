@@ -43,7 +43,6 @@ After enabling Integration cell runtime, following instructions to follow to cre
 <br>![](/exercises/ex1/images/ex1_03.png)
 
 3. Enter the following details to describe the package and **Save** it.<br>
-   After the Package is successfully created, go to the **Artifacts** tab.
 
    | Field | Value |
    | --- | --- |
@@ -51,6 +50,10 @@ After enabling Integration cell runtime, following instructions to follow to cre
    | Short Description| `This package demonstrates three different methods for creating API artifacts in SAP Integration Suite: using a backend URL, importing an existing API definition, and creating an API from an API specification.`
    | Version | ```1.0.0``` |
    | Vendor | ```SAP``` |
+
+<br>![](/exercises/ex1/images/ex1_04.png)
+
+   After the Package is successfully created, go to the **Artifacts** tab.
 
 ## Summary
 
