@@ -20,7 +20,7 @@ API-centric integration brings API design and integration capabilities together 
    Newly available API artifact should be deployed on newly available cloud-based runtime ‘integration cell’. <br>
    Click to **activate** button if not activated. 
 
-<br>![](/exercises/ex1/images/01_01_0010.png)
+<br>![](/exercises/ex1/images/ex1_01.png)
 
 
 ## Exercise 1.2 Sub Exercise 2 Description
