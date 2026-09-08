@@ -87,12 +87,15 @@ After enabling Integration cell runtime, following instructions to follow to cre
 
 8. ***Now you have successfully added your first API artifact.***
 
+
+9. **For more learning you can check this additional info or else you can move to next step.**
 > [!NOTE]
-> For more learning you can check this additional info or else you can move to next step.
-> ***Resources***
+> **Resources**
 > You can see details of all resources included in this API artifact in ***Resources*** tab.
 > And with edit option we can add more resources too.
 > <br>![](/exercises/ex1/images/ex1_10.png)
+> **Policies**
+> **************************************************************
 
 
 9. Deploy your first API artifact. Click to **deploy** and select **Integration Cell** as runtime profile and click **Yes**.
@@ -108,6 +111,15 @@ Once successfully deployed, you should see successfull message at bottom.
 
 
 10. **Now you have successfully added your first API artifact and deployed it.**
+
+
+
+## Exercise 1.3 Create API artifact via API Provider.
+
+
+
+1. 
+
 
 
 ## Summary
