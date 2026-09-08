@@ -11,16 +11,17 @@ API-centric integration brings API design and integration capabilities together 
     
    Log on to the SAP Integration Suite tenant using the user ID and password that has been provided by the instructors.
 
-> [!NOTE]
-> If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there. If you are uncertain about which tenant to use, consult your workshop instructors.
+   > [!NOTE]
+   > If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.
+   > If  you are uncertain about which tenant to use, consult your workshop instructors.
 
 2.	Enable or check Integration cell runtime.
-> [!NOTE]
-> We have activated integration cell runtime already. but in case if you want to enable into your company's specific tenant please follow this screenshot.
+   > [!NOTE]
+   > We have activated integration cell runtime already. but in case if you want to enable into your company's specific tenant please follow this screenshot.
 
-Click to runtime on left side on main page and check in the list if integration cell is activated or not.<br>
-Newly available API artifact should be deployed on newly available cloud-based runtime ‘integration cell’. <br>
-Click to **activate** button if not activated. 
+  Click to runtime on left side on main page and check in the list if integration cell is activated or not.<br>
+  Newly available API artifact should be deployed on newly available cloud-based runtime ‘integration cell’. <br>
+  Click to **activate** button if not activated. 
 
 <br>![](/exercises/ex1/images/ex1_01.png)
 ********************************check with Marco **************************************
@@ -31,8 +32,8 @@ After enabling Integration cell runtime, following instructions to follow to cre
 
 1.	Create a package in your SAP Integration Suite tenant.
    
-Now that you are logged into the tenant.<br> 
-**Create a new Package** from the **Integration and APIs** sub-menu under the **Design** menu (Click on the 'hamburger' icon on the left to launch the menu, if it's hidden).
+   Now that you are logged into the tenant.<br> 
+   **Create a new Package** from the **Integration and APIs** sub-menu under the **Design** menu (Click on the 'hamburger' icon on the left to launch the menu, if it's hidden).
 
 <br>![](/exercises/ex1/images/ex1_01.png)
 
