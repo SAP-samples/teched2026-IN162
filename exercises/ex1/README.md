@@ -53,7 +53,11 @@ After enabling Integration cell runtime, following instructions to follow to cre
 
 <br>![](/exercises/ex1/images/ex1_04.png)
 
-   After the Package is successfully created, go to the **Artifacts** tab.
+4. After the Package is successfully created, navigate to the **Artifacts** tab of this package, and click on **Add -> API**
+   
+<br>![](/exercises/ex1/images/ex1_05.png)
+
+   
 
 ## Summary
 
