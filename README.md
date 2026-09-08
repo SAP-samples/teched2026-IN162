@@ -48,7 +48,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Exercise 1: Design & deploy API artifact by 3 ways](exercises/ex1/)
     - [Exercise 1.1 - Enable integration cell runtime](exercises/ex1#exercise-11-enablecheck-integration-cell-runtime)
-    - [Exercise 1.2 - create your first API artifact via URL/ Open spec file](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Exercise 1.2 - create your first API artifact via URL/ Open spec file](exercises/ex1#exercise-12-create-your-first-api-artifact-via-url-open-spec-file)
     - [Exercise 1.3 - create your first API artifact via URL/ Open spec file](exercises/ex1#exercise-13-sub-exercise-3-description)
     - [Exercise 1.4 - create your first API artifact via URL/ Open spec file](exercises/ex1#exercise-14-sub-exercise-4-description)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
