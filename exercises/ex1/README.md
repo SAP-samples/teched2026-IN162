@@ -48,9 +48,9 @@ After enabling Integration cell runtime, following instructions to follow to cre
    | Field | Value |
    | --- | --- |
    | Name| TechEd 2026 IN162-0** (replace ** with your assigned user identifier)|
-   | Short Description| ´´´This package demonstrates three different methods for creating API artifacts in SAP Integration Suite: using a backend URL, importing an existing API definition, and creating an API from an API specification.´´´|
-   | Version | ´´´1.0.0´´´ |
-   | Vendor | ´´´SAP´´´ |
+   | Short Description| ```This package demonstrates three different methods for creating API artifacts in SAP Integration Suite: using a backend URL, importing an existing API definition, and creating an API from an API specification.```|
+   | Version | ```1.0.0``` |
+   | Vendor | ```SAP``` |
 
 ## Summary
 
