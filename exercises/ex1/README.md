@@ -12,10 +12,10 @@ API-centric integration brings API design and integration capabilities together 
    Log on to the SAP Integration Suite tenant using the user ID and password that has been provided by the instructors.
 
    > [!NOTE]
-   > If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.
-   > If  you are uncertain about which tenant to use, consult your workshop instructors.
+   > If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.If  you are uncertain about which tenant to use, consult your workshop instructors.
 
 2.	Enable or check Integration cell runtime.
+   
    > [!NOTE]
    > We have activated integration cell runtime already. but in case if you want to enable into your company's specific tenant please follow this screenshot.
 
@@ -154,10 +154,11 @@ Once successfully deployed, you should see successfull message at bottom.
 
 4. Now **copy** below prompt to generate open API specificiation file and ***click to Generate***.
 
-Prompt: ```Create a REST API with three operations for managing ServiceNow incidents. The base path already points to the incident table (/api/now/table/incident), so all operation paths below are relative to that.
+Prompt: 
+|```Create a REST API with three operations for managing ServiceNow incidents. The base path already points to the incident table (/api/now/table/incident), so all operation paths below are relative to that.
 Operation 1 — Query incidents. Method GET on path /. Retrieves incidents matching an encoded query. Optional query parameters: sysparm_query (string, an encoded query like number=INC0010002 or active=true^priority=1), sysparm_limit (integer, max number of records), sysparm_fields (string, comma-separated list of fields to return), and sysparm_display_value (string, one of true, false, or all). Returns a JSON object with a result array; each item has number, short_description, description, state, and sys_id (all strings).
 Operation 2 — Get incident by sys_id. Method GET on path /{sys_id}, where sys_id is a required string path parameter. Returns a JSON object with a result object containing number, short_description, description, state, and sys_id.
-Operation 3 — Create incident. Method POST on path /. Accepts a JSON request body with short_description (string) and description (string). Returns the created record as a result object including number and sys_id. ```
+Operation 3 — Create incident. Method POST on path /. Accepts a JSON request body with short_description (string) and description (string). Returns the created record as a result object including number and sys_id. ```|
 
 
 <br>
