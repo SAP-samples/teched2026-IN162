@@ -42,6 +42,14 @@ After enabling Integration cell runtime, following instructions to follow to cre
    
 <br>![](/exercises/ex1/images/ex1_03.png)
 
+3. Enter the following details to describe the package and **Save** it.<br>
+   After the Package is successfully created, go to the **Artifacts** tab.
+
+   | Feature | Description |
+   | --- | --- |
+   | API-centric integration | Exposes business capabilities through APIs |
+   | MCP Gateway | Provides governed access for AI agents |
+   | SAP Integration Suite | Connects applications, APIs, and processes |
 
 ## Summary
 
