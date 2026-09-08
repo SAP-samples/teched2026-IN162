@@ -2,9 +2,14 @@
 
 API-centric integration brings API design and integration capabilities together in a unified experience. It enables you to create APIs that directly connect to backend systems, mediate and transform requests and responses, compose multiple services, and expose simplified interfaces to API consumers. With this approach, you can build APIs ranging from simple managed endpoints to rich integration scenarios while applying security, traffic management, and lifecycle governance as part of the same development experience. In this exercise you will see 3 different ways how to create this api artifact.
 
-## Exercise 1.1 Sub Exercise 1 Description
+## Exercise 1.1 Enable/check integration cell runtime
 
-After completing these steps you will have created...
+1. Log on to your assigned SAP Integration Suite tenant
+
+   Log on to the SAP Integration Suite tenant using the user ID and password that has been provided by the instructors.
+
+> [!NOTE]
+> If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there. If you are uncertain about which tenant to use, consult your workshop instructors.
 
 1. Click here.
 <br>![](/exercises/ex1/images/01_01_0010.png)
