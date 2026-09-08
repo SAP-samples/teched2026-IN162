@@ -69,6 +69,17 @@ After enabling Integration cell runtime, following instructions to follow to cre
 
  <br>![](/exercises/ex1/images/ex1_07.png)    
 
+7. Enter the following details to create API from scratch and click to **Next**.
+
+   | Field | Value |
+   | --- | --- |
+   | Name| |
+   | Short Description| ``
+   | ID| `` |
+   | URL | `` |
+
+
+
 ## Summary
 
 You've now ...
