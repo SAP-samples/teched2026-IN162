@@ -85,9 +85,9 @@ After enabling Integration cell runtime, following instructions to follow to cre
  After successfully adding API artifact, we can see detailed information about API in **Overview & Target EndPoint** tabs.
  
 
-8. ***Now you have successfully added your first API artifact.***<br>
-
-
+8. **Now you have successfully added your first API artifact.** 
+<br>
+<br>
 
 9. **For more learning you can check this additional info or else you can move to next step.**
 
