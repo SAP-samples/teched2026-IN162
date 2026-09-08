@@ -83,7 +83,8 @@ After enabling Integration cell runtime, following instructions to follow to cre
  <br>![](/exercises/ex1/images/ex1_08.png)  
 
 
- 
+ After successfully adding API artifact, we can see detailed information about API in **Overview & Target EndPoint** tabs.
+
 
 ## Summary
 
