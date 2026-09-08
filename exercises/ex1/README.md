@@ -85,7 +85,7 @@ After enabling Integration cell runtime, following instructions to follow to cre
 
  After successfully adding API artifact, we can see detailed information about API in **Overview & Target EndPoint** tabs.
 
- 8. ***Now you have successfully added your first API artifact.***
+8. ***Now you have successfully added your first API artifact.***
 
 > [!NOTE]
 > For more learning you can check this additional info or else you can move to next step.
@@ -93,6 +93,13 @@ After enabling Integration cell runtime, following instructions to follow to cre
 > You can see details of all resources included in this API artifact in ***Resources*** tab.
 > And with edit option we can add more resources too.
 > <br>![](/exercises/ex1/images/ex1_10.png)  
+
+9. Deploy your first API artifact.
+
+<br>![](/exercises/ex1/images/ex1_11.png)  
+
+
+
 
 
 ## Summary
