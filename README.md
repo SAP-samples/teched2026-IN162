@@ -54,7 +54,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - Secure & Monitor the New API Artifact](exercises/ex2/)
     - [Exercise 2.1 - Secure new API artifact](exercises/ex2/README.md#exercise-21-secure-api-artifact)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-    - [Exercise 2.3 - Monitor API Artifact](exercises/ex2/README.md#exercise-22-sub-exercise-2-description)
+    - [Exercise 2.3 - Monitor API Artifact](exercises/ex2/README.md#exercise-23-monitor-api-artifact)
 
 
   
