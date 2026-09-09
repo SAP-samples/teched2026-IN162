@@ -11,6 +11,16 @@ The exercise will typically cover:<br>
 ## Exercise 2.1 Secure the API Artifact.
 
 > **Note:** This is just informative exercise where you don’t need to execute anything but you will get knowledge about securing options.
+<br>
+
+1. **Authentication** 
+
+> Note: The Authentication policy is the first policy executed in the processing flow and is mandatory for every API Artifact. It verifies the identity of the API consumer before allowing the request to proceed. The policy supports multiple authentication mechanisms, including Basic Authentication, OAuth 2.0, and Client Certificate authentication. For newly created API Artifacts, it also supports External OAuth (OIDC), enabling token validation from external identity providers such as Microsoft Entra ID, Google, and Okta. Multiple authentication methods can be enabled simultaneously, allowing APIs to support different client applications and security requirements.
+
+Now **navigate to any API artifact** created before, and open **policy** tab. 
+
+
+
 
 
 1. Click here.
