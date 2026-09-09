@@ -92,7 +92,8 @@ After completing these steps you will have...
 
 2. Select any api artifact which is already deployed to view details of specific deoployment or go with **PurchaseOrder_userXXX**.<br>
 
-
+ <br>![](/exercises/ex2/images/ex2_05.png)
+ 
 The details page displays comprehensive runtime information about the deployed artifact, including:
 - Deployment Status – Indicates whether the artifact is successfully deployed and running.
 - Endpoints – Displays the runtime endpoint through which the API can be invoked.
