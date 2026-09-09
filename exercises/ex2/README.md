@@ -19,18 +19,18 @@ The exercise will typically cover:<br>
 
 Now **navigate to any API artifact** created before, and open **policy** tab. 
 
+2. click on **edit**.
+  
+  <br>![](/exercises/ex1/images/ex2_01.png)
 
 
+3. Double click on **Authentication**. And now **enable checkbox** is visible for External OAuth. 
+
+> Note: External OAuth (OIDC) means that your API trusts and validates tokens from an external identity provider to secure access to the API artifact.
 
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
-
+ <br>
+  <br>
 
 
 ## Exercise 2.2 Sub Exercise 2 Description
