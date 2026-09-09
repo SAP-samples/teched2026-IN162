@@ -1,4 +1,4 @@
-# Exercise 2 - Secure & Monitor the New API Artifact.
+# Exercise 2 - Secure, Test & Monitor the New API Artifact.
 
 ## Overview
 
