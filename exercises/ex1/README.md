@@ -225,8 +225,10 @@ You can also check Resources and Policy tab for more details about this API arti
    > please select runtime profile as **Integration cell**.
 
 
-<br>![](/exercises/ex1/images/ex1_19.png)  
+<br>![](/exercises/ex1/images/ex1_19png.png)  
 
+
+2. 
 
 <br>
 <br>
