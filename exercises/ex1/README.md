@@ -12,8 +12,7 @@ API-centric integration brings API design and integration capabilities together 
    Log on to the SAP Integration Suite tenant using the user ID and password that has been provided by the instructors.<br>
 
    > [!NOTE]
-   > If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.If
-   > you are uncertain about which tenant to use, consult your workshop instructors.
+   > If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.If you are uncertain about which tenant to use, consult your workshop instructors.
 
 2.	Enable or check Integration cell runtime.
    
