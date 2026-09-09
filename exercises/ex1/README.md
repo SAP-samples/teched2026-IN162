@@ -209,14 +209,17 @@ Now once again select API provider method from list.
 10. Deploy API artifact.
 <br>
 *****provide scrennshot*******
-
+<br>
 
 11. **Now you have successfully added another API artifact by using available backend system.**
 You can also check Resources and Policy tab for more details about this API artifact.
-
-
 <br>
-  
+
+
+## Exercise 1.4 – Create API artifact via reusable API
+
+
+
 <br>
 <br>
 
