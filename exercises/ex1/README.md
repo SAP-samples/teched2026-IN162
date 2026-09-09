@@ -228,7 +228,23 @@ You can also check Resources and Policy tab for more details about this API arti
 <br>![](/exercises/ex1/images/ex1_19png.png)  
 
 
-2. 
+2. Provide the below API details to create a Reusable API.<br>
+   
+   | Field | Value |
+   | --- | --- |
+   |name |Central Security Reusable API   |
+   |ID|Central_Security_Reusable_API |
+   |API Base path	|/centralsecurity|
+   |API version|	1.0.0|
+   |Runtime profile |	Integration Cell|
+   <br>
+
+ > [!NOTE] A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct
+ > adapter. Therefore, it does not have an externally invokable endpoint.
+<br>
+
+Once all the details are provided, click on **Create** to create a Reusable API.
+
 
 <br>
 <br>
