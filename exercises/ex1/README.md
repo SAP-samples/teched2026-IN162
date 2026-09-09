@@ -62,8 +62,7 @@ After enabling Integration cell runtime, following instructions to follow to cre
 <br>![](/exercises/ex1/images/ex1_06.png)   
 
 > [!NOTE]
-> An API artifact can be added to either runtime profile. However, the same artifact cannot be deployed to a second
-> runtime if it is already deployed on the first runtime.
+> An API artifact can be added to either runtime profile. However, the same artifact cannot be deployed to a second runtime if it is already deployed on the first runtime.
 
 6. Select first method **URL or Specification**
 
@@ -239,9 +238,9 @@ You can also check Resources and Policy tab for more details about this API arti
    |Runtime profile |	Integration Cell|
    <br>
 
- > [!NOTE] A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct
+ > [!NOTE]
+ > A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct
  > adapter. Therefore, it does not have an externally invokable endpoint.
-<br>
 
 <br>![](/exercises/ex1/images/ex1_20.png)  
 
