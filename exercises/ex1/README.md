@@ -166,13 +166,23 @@ Operation 3 — Create incident. Method POST on path /. Accepts a JSON request b
 
 <br>![](/exercises/ex1/images/ex1_15.png)  
 
-One Generated, click to **add**.
+Once Generated, click to **add**.
 <br>
 
 > [!NOTE]
 > Generation of open api specification might take few seconds.
 
 
+5. **Now you have successfully created API artifact via API provider.**
+<br>
+
+6. Now we can see another approach to create API artifact from **SAP backend API**(SAP Gateway backend system) **via API provider**.
+
+Now once again select API provider method from list.
+
+<br>![](/exercises/ex1/images/ex1_12.png)
+
+   
 <br>
 <br>
 
