@@ -1,7 +1,13 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Secure & Monitor the New API Artifact.
 
-In this exercise, we will create...
+## Overview
+<br>
+The exercise will typically cover:
+•	Secure: Configure authentication, authorization, API policies, and access controls to protect the API.
+•	Test: Verify that the API works correctly by sending requests, checking responses, validating error handling, and testing different security scenarios.
+•	Monitor: Track API usage, message processing, errors, performance, and runtime logs to identify and resolve issues.
 
+<br>
 ## Exercise 2.1 Sub Exercise 1 Description
 
 After completing these steps you will have created...
