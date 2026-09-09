@@ -218,6 +218,14 @@ You can also check Resources and Policy tab for more details about this API arti
 
 ## Exercise 1.4 – Create API artifact via reusable API
 
+1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
+   **click to add** new API artifact and now choose another option via **Reusable API**.
+
+   > [!NOTE]
+   > please select runtime profile as **Integration cell**.
+
+
+<br>![](/exercises/ex1/images/ex1_19.png)  
 
 
 <br>
