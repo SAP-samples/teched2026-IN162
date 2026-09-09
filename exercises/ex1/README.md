@@ -166,6 +166,12 @@ Operation 3 — Create incident. Method POST on path /. Accepts a JSON request b
 
 <br>![](/exercises/ex1/images/ex1_15.png)  
 
+One Generated, click to **add**.
+<br>
+
+> [!NOTE]
+> Generation of open api specification might take few seconds.
+
 
 <br>
 <br>
