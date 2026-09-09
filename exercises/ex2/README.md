@@ -79,20 +79,30 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
 
 After completing these steps you will have...
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
 
-```
 
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+## Exercise 2.3 Monitor API Artifact
+
+1. Once the API Artifact has been successfully deployed, you can monitor its runtime status and operational details from the Monitor view in SAP Integration Suite.
+
+   Navigate to **Monitor** and select runtime as **Integration cell** and click **Manage Integration Content**.
+
+ <br>![](/exercises/ex2/images/ex2_04.png)
+
+
+2. Select any api artifact which is already deployed to view details of specific deoployment or go with **PurchaseOrder_userXXX**.<br>
+
+
+The details page displays comprehensive runtime information about the deployed artifact, including:
+- Deployment Status – Indicates whether the artifact is successfully deployed and running.
+- Endpoints – Displays the runtime endpoint through which the API can be invoked.
+- Artifact Details – Provides deployment metadata and quick navigation to the Artifact Editor or message monitoring.
+- Status Details – Shows the current deployment state and any deployment-related messages.
+- Download and Undeploy – Allows you to download the deployed artifact or remove it from the runtime.<br>
+
+This view serves as the primary operational console for managing deployed API Artifacts on the Integration Cell runtime.
+
+
 
 ## Summary
 
