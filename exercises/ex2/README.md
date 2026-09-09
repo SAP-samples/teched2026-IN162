@@ -103,10 +103,23 @@ The details page displays comprehensive runtime information about the deployed a
 
 This view serves as the primary operational console for managing deployed API Artifacts on the Integration Cell runtime.
 
+3. For troubleshooting and diagnostics, the runtime log level of an API Artifact can be configured directly from the monitoring view.
+   Supported log levels include:
+   - None – Disables runtime logging.
+   - Info – Records high-level execution events and is recommended for normal operation.
+   - Error – Logs only error conditions and exceptions.
+   - Debug – Captures detailed execution information for in-depth troubleshooting.
+
+4. **Congratulations you are successfully finished with exercise 2.**
+
+<br>
+<br>
 
 
 ## Summary
 
-You've now ...
+You have activated the Integration Cell runtime, created your first API Artifact, explored its design and runtime components, deployed it successfully, and verified its deployment using the monitoring console.
+
+At this stage, the API is available on the Integration Cell runtime but is not yet discoverable by application developers. The next step is to govern its consumption by publishing it through Developer Hub.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
