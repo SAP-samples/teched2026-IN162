@@ -9,7 +9,7 @@ API-centric integration brings API design and integration capabilities together 
    - [SAP Integration suite tenant for user 1 to user 20](https://workshop02a.integrationsuite-cpi049.cfapps.eu10-003.hana.ondemand.com/shell/home)
    - [SAP Integration suite tenant for user 21 to user 40](https://workshop02b.integrationsuite-cpi050.cfapps.eu20-002.hana.ondemand.com/shell/home)
     
-   Log on to the SAP Integration Suite tenant using the user ID and password that has been provided by the instructors.
+   Log on to the SAP Integration Suite tenant using the user ID and password that has been provided by the instructors.<br>
 
    > [!NOTE]
    > If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.If
