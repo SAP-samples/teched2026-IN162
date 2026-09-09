@@ -15,7 +15,7 @@ The exercise will typically cover:<br>
 
 1. **Authentication** 
 
-> Note: The Authentication policy is the first policy executed in the processing flow and is mandatory for every API Artifact. It verifies the identity of the API consumer before allowing the request to proceed. The policy supports multiple authentication mechanisms, including Basic Authentication, OAuth 2.0, and Client Certificate authentication. For newly created API Artifacts, it also supports External OAuth (OIDC), enabling token validation from external identity providers such as Microsoft Entra ID, Google, and Okta. Multiple authentication methods can be enabled simultaneously, allowing APIs to support different client applications and security requirements.
+**Note**: The Authentication policy is the first policy executed in the processing flow and is mandatory for every API Artifact. It verifies the identity of the API consumer before allowing the request to proceed. The policy supports multiple authentication mechanisms, including Basic Authentication, OAuth 2.0, and Client Certificate authentication. For newly created API Artifacts, it also supports External OAuth (OIDC), enabling token validation from external identity providers such as Microsoft Entra ID, Google, and Okta. Multiple authentication methods can be enabled simultaneously, allowing APIs to support different client applications and security requirements.
 
 Now **navigate to any API artifact** created before, and open **policy** tab. 
 
@@ -27,6 +27,19 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
 3. Double click on **Authentication**. And now **enable checkbox** is visible for External OAuth. 
 
 > Note: External OAuth (OIDC) means that your API trusts and validates tokens from an external identity provider to secure access to the API artifact.
+
+  
+  <br>![](/exercises/ex1/images/ex2_02.png)
+
+  **Simple Example**: 
+  Suppose your company uses Microsoft Entra ID. A user or application obtains a token from Entra ID and calls your SAP API artifact. 
+  The API artifact checks:
+  - Whether the token was issued by the trusted identity provider.
+  - Whether the token is still valid.
+  - Whether the token has the correct audience.
+  - Verify client key
+  Only authorized requests are passed to next steps.
+
 
 
  <br>
