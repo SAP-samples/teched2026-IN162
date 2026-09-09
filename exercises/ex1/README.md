@@ -218,11 +218,10 @@ You can also check Resources and Policy tab for more details about this API arti
 ## Exercise 1.4 – Create API artifact via reusable API
 
 1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
-   **click to add** new API artifact and now choose another option via **Reusable API**.
+   **click to add** new API artifact and now choose another option via **Reusable API**.<br>
 
    > [!NOTE]
    > please select runtime profile as **Integration cell**.
-
 
 <br>![](/exercises/ex1/images/ex1_19.png)  
 
@@ -245,9 +244,14 @@ You can also check Resources and Policy tab for more details about this API arti
 <br>![](/exercises/ex1/images/ex1_20.png)  
 
 
-Once all the details are provided, click on **Create** to create a Reusable API.
+Once all the details are provided, click on **Create** to create a Reusable API.<br>
 
 
+3. The sender adapter in a Reusable API is automatically set to API Direct. This is important because it allows the calling API artifact to invoke the Reusable API internally
+   without an HTTP endpoint and without external exposure. Now, let’s add a few security policies like Authentication and Authorization to it.
+
+
+   
 <br>
 <br>
 
