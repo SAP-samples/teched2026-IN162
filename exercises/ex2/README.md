@@ -21,7 +21,7 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
 
 2. click on **edit**.
   
-  <br>![](/exercises/ex1/images/ex2_01.png)
+  <br>![](/exercises/ex2/images/ex2_01.png)
 
 
 3. Double click on **Authentication**. And now **enable checkbox** is visible for External OAuth. 
@@ -29,7 +29,7 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
 > Note: External OAuth (OIDC) means that your API trusts and validates tokens from an external identity provider to secure access to the API artifact.
 
   
-  <br>![](/exercises/ex1/images/ex2_02.png)
+  <br>![](/exercises/ex2/images/ex2_02.png)
 
   **Simple Example**: 
   Suppose your company uses Microsoft Entra ID. A user or application obtains a token from Entra ID and calls your SAP API artifact. 
