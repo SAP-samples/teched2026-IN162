@@ -227,5 +227,5 @@ You can also check Resources and Policy tab for more details about this API arti
 
 You've now ...
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Secure & Monitor the New API Artifact](../ex2/README.md)
 
