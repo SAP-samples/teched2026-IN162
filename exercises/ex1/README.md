@@ -225,7 +225,7 @@ You can also check Resources and Policy tab for more details about this API arti
    > please select runtime profile as **Integration cell**.
 
 
-<br>![](/exercises/ex1/images/ex1_19png.png)  
+<br>![](/exercises/ex1/images/ex1_19.png)  
 
 
 2. Provide the below API details to create a Reusable API.<br>
@@ -242,6 +242,9 @@ You can also check Resources and Policy tab for more details about this API arti
  > [!NOTE] A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct
  > adapter. Therefore, it does not have an externally invokable endpoint.
 <br>
+
+<br>![](/exercises/ex1/images/ex1_20.png)  
+
 
 Once all the details are provided, click on **Create** to create a Reusable API.
 
