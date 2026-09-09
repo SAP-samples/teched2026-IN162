@@ -225,7 +225,8 @@ You can also check Resources and Policy tab for more details about this API arti
 
 ## Summary
 
-You've now ...
+You have now activated the Integration Cell runtime, created your first API Artifact via 3 different ways, explored its design and runtime components, deployed it successfully.
+Now in next exercise we can secure, test and monitor these api artifacts. <br> 
 
 Continue to - [Exercise 2 - Secure & Monitor the New API Artifact](../ex2/README.md)
 
