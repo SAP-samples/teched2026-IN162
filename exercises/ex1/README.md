@@ -1,4 +1,4 @@
-<img width="468" height="69" alt="image" src="https://github.com/user-attachments/assets/f09cfa66-e83b-43ec-be3d-bef1e79964e2" /># Exercise 1 - Overview
+# Exercise 1 - Overview
 
 API-centric integration brings API design and integration capabilities together in a unified experience. It enables you to create APIs that directly connect to backend systems, mediate and transform requests and responses, compose multiple services, and expose simplified interfaces to API consumers. With this approach, you can build APIs ranging from simple managed endpoints to rich integration scenarios while applying security, traffic management, and lifecycle governance as part of the same development experience. In this exercise you will see 3 different ways how to create this api artifact.
 
@@ -182,7 +182,12 @@ Now once again select API provider method from list.
 
 <br>![](/exercises/ex1/images/ex1_12.png)
 
-   
+
+7. In discoverable system section, select backend SAP Gateway system.
+
+<br>![](/exercises/ex1/images/ex1_17.png)   
+
+ 
 <br>
 <br>
 
