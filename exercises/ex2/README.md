@@ -10,7 +10,8 @@ The exercise will typically cover:<br>
 
 ## Exercise 2.1 Secure API Artifact.
 
-> **Note:** This is just informative exercise where you don’t need to execute anything but you will get knowledge about securing options.
+> **Note:** T
+> his is just informative exercise where you don’t need to execute anything but you will get knowledge about securing options.
 <br>
 
 1. **Authentication Policy** 
