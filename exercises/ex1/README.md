@@ -228,7 +228,9 @@ You can also check Resources and Policy tab for more details about this API arti
 
 <br>![](/exercises/ex1/images/ex1_21.png)  
 
+2. Now open any API artifact which is already created by you or open api artifact **TicketCreationAPI_userXXX**.
 
+   
 
 <br>
 <br>
