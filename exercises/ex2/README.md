@@ -1,4 +1,4 @@
-# Exercise 2 - Secure, Test & Monitor the New API Artifact.
+# Exercise 2 - Secure & Monitor the New API Artifact.
 
 ## Overview
 
@@ -75,13 +75,7 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
   <br>
 
 
-## Exercise 2.2 Test API Artifact
-
-After completing these steps you will have...
-
-
-
-## Exercise 2.3 Monitor API Artifact
+## Exercise 2.2 Monitor API Artifact
 
 1. Once the API Artifact has been successfully deployed, you can monitor its runtime status and operational details from the Monitor view in SAP Integration Suite.
 
