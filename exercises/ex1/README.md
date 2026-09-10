@@ -11,8 +11,8 @@ API-centric integration brings API design and integration capabilities together 
     
    Log on to the SAP Integration Suite tenant using the user ID and password that has been provided by the instructors.
 
-   > [!NOTE]
-   > If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.If you are uncertain about which tenant to use, consult your workshop instructors.
+> [!NOTE]
+> If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.If you are uncertain about which tenant to use, consult your workshop instructors.
 
 2.	Enable or check Integration cell runtime.
    
@@ -217,37 +217,13 @@ You can also check Resources and Policy tab for more details about this API arti
 
 ## Exercise 1.4 – Create API artifact via reusable API
 
-1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
-   **click to add** new API artifact and now choose another option via **Reusable API**.<br>
+1. We have already created Reusable API artifact with name **Central Security Reusable API**.
+   You can use this for next steps.
+> [!NOTE]
+> A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct adapter. Therefore, it does not have an externally invokable endpoint.
 
 > [!NOTE]
-> please select runtime profile as **Integration cell**.
-
-<br>![](/exercises/ex1/images/ex1_19.png)  
-
-
-2. Provide the below API details to create a Reusable API.<br>
-   
-   | Field | Value |
-   | --- | --- |
-   |name |Central Security Reusable API   |
-   |ID|Central_Security_Reusable_API |
-   |API Base path	|/centralsecurity|
-   |API version|	1.0.0|
-   |Runtime profile |	Integration Cell|
-   <br>
-
- > [!NOTE]
- > A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct
- > adapter. Therefore, it does not have an externally invokable endpoint.
-
-<br>![](/exercises/ex1/images/ex1_20.png)  
-
-
-Once all the details are provided, click on **Create** to create a Reusable API.<br>
-
-
-3. The sender adapter in a Reusable API is automatically set to API Direct. This is important because it allows the calling API artifact to invoke the Reusable API internally
+> The sender adapter in a Reusable API is automatically set to API Direct. This is important because it allows the calling API artifact to invoke the Reusable API internally
    without an HTTP endpoint and without external exposure. Now, let’s add a few security policies like Authentication and Authorization to it.
 
 
