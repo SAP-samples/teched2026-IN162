@@ -52,7 +52,7 @@ Once click on Publish. You will see below message, **click to close**.
 > [!NOTE]
 > The **Scheduled Requests** page provides a centralized view of all content creation and update operations within Developer Hub. Publication involves synchronizing metadata across multiple platform services. Processing requests asynchronously improves scalability while allowing administrators to monitor publication progress through Scheduled Requests. Initially, the product publication request appears with the status **In Progress**, indicating that Developer Hub is validating the product and synchronizing the content.
 
-
+<br><br>
 
 
 ## Exercise 3.2 Discover, Subscribe and Consume API artifact.
@@ -98,6 +98,6 @@ From the product page,
 <br>![](/exercises/ex3/images/ex3_10.png)
 
 
-You can bruno installed already into your system to test this API Artifact. You can copy deployed API artifact URL from package, and copy paste client id and secret. 
+6. You can bruno installed already into your system to test this API Artifact. You can copy deployed API artifact URL from package, and copy paste client id and secret. 
 
   
