@@ -13,5 +13,7 @@ Discover → Create Product → Publish → Create Application → Subscribe →
 
 1. To get govern access to API artifact, click to developer hub.
 
+  
+  <br>![](/exercises/ex3/images/ex3_01.png)
 
 
