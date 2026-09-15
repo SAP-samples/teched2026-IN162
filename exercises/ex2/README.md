@@ -4,7 +4,6 @@
 
 The exercise will typically cover:<br>
 - Secure: Configure authentication, authorization, API policies, and access controls to protect the API.<br>
-- Test: Verify that the API works correctly by sending requests, checking responses.<br>
 - Monitor: Track API usage, message processing, errors, performance, and runtime logs to identify and resolve issues.<br>
 
 
