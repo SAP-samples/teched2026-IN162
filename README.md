@@ -56,7 +56,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.2 - Monitor API Artifact](exercises/ex2/README.md#exercise-23-monitor-api-artifact)
 - [Exercise 3 - Consumption (with developer hub) & analytics the New API Artifact](exercises/ex3/README.md#exercise-3-)
     - [Exercise 3.1 - Create your first API artifact product](exercises/ex3/README.md#exercise-31-create-your-first-api-artifact-product)
-    - [Exercise 3.2 - Discover, Subscribe and Consume API artifact](exercises/ex3/README.md#exercise-23-monitor-api-artifact)
+    - [Exercise 3.2 - Discover, Subscribe and Consume API artifact](exercises/ex3/README.md#exercise-32-discover-subscribe-and-consume-api-artifact)
     - [Exercise 3.3 - Modern API Analytics](exercises/ex3/README.md#exercise-23-monitor-api-artifact)
 
 
