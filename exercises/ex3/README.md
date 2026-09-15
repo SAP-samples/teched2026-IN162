@@ -70,3 +70,11 @@ Once click on Publish. You will see below message, **click to close**.
 <br>![](/exercises/ex3/images/ex3_07.png)
 
 
+3. **Subscribe**
+
+API Products remain inaccessible until an application subscribes to them. Subscriptions establish the trust relationship between an application and the published product while enabling controlled access through OAuth credentials. To consume a protected API, an application must first subscribe to the published API product.
+From the product page, 
+**select Subscribe → Create New Subscription for Application.**
+
+<br>![](/exercises/ex3/images/ex3_08.png)
+
