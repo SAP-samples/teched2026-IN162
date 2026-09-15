@@ -95,6 +95,7 @@ From the product page,
 
    After 1 or 2 min credentionals will generate.
 
-   
+<br>![](/exercises/ex3/images/ex3_10.png)
+
 
    
