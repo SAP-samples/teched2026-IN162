@@ -17,3 +17,8 @@ Discover → Create Product → Publish → Create Application → Subscribe →
   <br>![](/exercises/ex3/images/ex3_01.png)
 
 
+2. Step 2 – Navigate to Admin center → Content.
+
+  <br>![](/exercises/ex3/images/ex3_02.png) 
+
+
