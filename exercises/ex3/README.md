@@ -98,4 +98,6 @@ From the product page,
 <br>![](/exercises/ex3/images/ex3_10.png)
 
 
-   
+You can bruno installed already into your system to test this API Artifact. You can copy deployed API artifact URL from package, and copy paste client id and secret. 
+
+  
