@@ -14,18 +14,18 @@ This completes the lifecycle:
 1. To get govern access to API artifact, click to developer hub.
 
   
-  <br>![](/exercises/ex3/images/ex3_01.png)
+<br>![](/exercises/ex3/images/ex3_01.png)
     
 
 
 2. Navigate to Admin center → Content.
 
-  <br>![](/exercises/ex3/images/ex3_02.png) 
+<br>![](/exercises/ex3/images/ex3_02.png) 
 
 
 3. Select the business system.
 
-  <br>![](/exercises/ex3/images/ex3_03.png) 
+<br>![](/exercises/ex3/images/ex3_03.png) 
 
 > [!NOTE]
 > Developer Hub can aggregate APIs from multiple Integration Suite runtimes. Business Systems act as the logical source of published integration assets, allowing organizations to build a unified enterprise API catalog across landscapes. Select the business system that contains the deployed API artifact. Developer Hub retrieves all published integration assets from the selected business system and makes them available for creating products.
@@ -33,9 +33,16 @@ This completes the lifecycle:
 
 4. Select TicketCreationAPI from list to create product & click to Create product button.
 
-     <br>![](/exercises/ex3/images/ex3_04.png)
+
+<br>![](/exercises/ex3/images/ex3_04.png)
 
 5. Provide details of product mentioned below. and **click to Publish** button.
    
+ | Field | Value |
+   | --- | --- |
+   | Name| FirstProduct_Userxxx (replace your user instead of xxx - ex. User001)|
+   | ID| FirstProduct_Userxxx (replace your user instead of xxx - ex. User001)|
+   | Short Text | Creation of first product for ticket creation API. |
 
+<br>![](/exercises/ex3/images/ex3_05.png)
 
