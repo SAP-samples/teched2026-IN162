@@ -67,4 +67,6 @@ Once click on Publish. You will see below message, **click to close**.
 
 2. Details are visible here in overview and API tab. You can explore the product.
 
+<br>![](/exercises/ex3/images/ex3_07.png)
+
 
