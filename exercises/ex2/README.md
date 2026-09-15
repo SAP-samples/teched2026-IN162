@@ -115,6 +115,6 @@ This view serves as the primary operational console for managing deployed API Ar
 
 You have activated the Integration Cell runtime, created your first API Artifact, explored its design and runtime components, deployed it successfully, and verified its deployment using the monitoring console.
 
-At this stage, the API is available on the Integration Cell runtime but is not yet discoverable by application developers. The next step is to govern its consumption by publishing it through Developer Hub.
+At this stage, the API is available on the Integration Cell runtime but it is not yet discoverable by application developers. The next step is to govern its consumption by publishing it through Developer Hub.
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
