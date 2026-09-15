@@ -90,3 +90,11 @@ From the product page,
 
 <br>![](/exercises/ex3/images/ex3_09.png)
 
+
+5. Now Please wait for few minutes to generate the credentials.
+
+   After 1 or 2 min credentionals will generate.
+
+   
+
+   
