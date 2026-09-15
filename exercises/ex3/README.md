@@ -46,3 +46,25 @@ This completes the lifecycle:
 
 <br>![](/exercises/ex3/images/ex3_05.png)
 
+
+Once click on Publish. You will see below message, **click to close**.  
+
+> [!NOTE]
+> The **Scheduled Requests** page provides a centralized view of all content creation and update operations within Developer Hub. Publication involves synchronizing metadata across multiple platform services. Processing requests asynchronously improves scalability while allowing administrators to monitor publication progress through Scheduled Requests. Initially, the product publication request appears with the status **In Progress**, indicating that Developer Hub is validating the product and synchronizing the content.
+
+
+
+
+## Exercise 3.2 Discover, Subscribe and Consume API artifact.
+
+1. **Discover the Product Catalog.**
+
+   Now navigate to Developer hub main page, and new product will be visible in list. Click to **FirstProduct_userXXX** from list.
+
+
+<br>![](/exercises/ex3/images/ex3_06.png)
+
+
+2. Details are visible here in overview and API tab. You can explore the product.
+
+
