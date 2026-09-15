@@ -78,3 +78,15 @@ From the product page,
 
 <br>![](/exercises/ex3/images/ex3_08.png)
 
+
+4. Provide the application details that identify the consumer application. And **click to create**.
+
+   
+ | Field | Value |
+   | --- | --- |
+   | Name| FirstProductSubscription_Userxxx (replace your user instead of xxx - ex. User001)|
+   | Short Text| FirstProductSubscription_Userxxx (replace your user instead of xxx - ex. User001)|
+   | Description | Creation of first product subscription for ticket creation. |
+
+<br>![](/exercises/ex3/images/ex3_09.png)
+
