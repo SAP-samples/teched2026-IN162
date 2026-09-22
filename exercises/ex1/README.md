@@ -76,8 +76,13 @@ After enabling Integration cell runtime, following instructions to follow to cre
    | --- | --- |
    | File name|  download this json and upload to your file name <br>![click here](https://github.com/SAP-samples/teched2026-IN162/blob/main/exercises/ex1/images/OP_PURCHASEORDER_0001.json)|
    | Target/ Destination|  <br>![](/exercises/ex1/images/ex1_09.png)  |
+   | Name| Purchase Order |
    | ID| Purchase_Order |
+   | Service Type| REST | 
    | API Base path | /purchaseorders |
+   | API State |Active |
+   | API Version | 1.0.0  | 
+   | Service Type| REST | 
 
  <br>![](/exercises/ex1/images/ex1_08.png)  
 
