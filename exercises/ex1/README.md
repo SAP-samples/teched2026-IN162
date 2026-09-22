@@ -242,8 +242,8 @@ You can also check Resources and Policy tab for more details about this API arti
 2. Provide below details of Reusable API. and **Click to Add.**
    | Field | Value |
    | --- | --- |
-   | Name 	| ReusableAPI_userXXX|
-   |ID |ReusableAPI_userXXX|
+   | Name 	| ReusableAPI_userXXX (replace XXX with your number ex 010)|
+   |ID |ReusableAPI_userXXX (replace XXX with your number ex. 010)|
    |API Base path	|/reusableapi|
    |API version|	1.0.0|
    |Runtime Profile | Integration Cell|
