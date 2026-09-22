@@ -7,5 +7,4 @@
 
 ## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+Now that you have short intro about topic, Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
