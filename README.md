@@ -45,7 +45,7 @@ In case you are not able to access any of these systems please contact the works
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started](exercises/ex0/)
+- [Getting Started](exercises/ex0/README.md#introduction---api-centric-integration)
 - [Exercise 1 - Exercise 1: Design & deploy API artifact by 3 ways](exercises/ex1/)
     - [Exercise 1.1 - Enable integration cell runtime](exercises/ex1/README.md#exercise-11-enablecheck-integration-cell-runtime)
     - [Exercise 1.2 - Create your first API artifact via URL/ Open spec file](exercises/ex1/README.md#exercise-12-create-your-first-api-artifact-via-url-open-spec-file)
