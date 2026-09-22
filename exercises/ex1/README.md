@@ -101,8 +101,6 @@ After enabling Integration cell runtime, following instructions to follow to cre
 > You can see details of all resources included in this API artifact in ***Resources*** tab.
 > And with edit option we can add more resources too.
 > <br>![](/exercises/ex1/images/ex1_10.png)
-> **Policies**
-> **************************************************************
 
 
 10. Deploy your first API artifact. Click to **deploy** and select **Integration Cell** as runtime profile and click **Yes**.
