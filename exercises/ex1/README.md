@@ -174,7 +174,7 @@ Once Generated, click to **add**.
 > Generation of open api specification might take few seconds.
 
 
-5. **Now you have successfully created API artifact via API provider.**
+5. **First Deploy new Artifact. Now you have successfully created API artifact via API provider.**
 <br>
 
 6. Now we can see another approach to create API artifact from **SAP backend API**(SAP Gateway backend system) **via API provider**.
