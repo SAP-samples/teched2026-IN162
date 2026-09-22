@@ -20,7 +20,7 @@ IN162 - Building API-Centric Integration Flows with SAP Integration Suite.
 
 
 This session explores the API-centric paradigm and its role in designing, exposing, securing, and operating modern integration services. It combines conceptual guidance with hands-on exercises to provide practical experience across the complete API lifecycle.
-The session begins with an introduction to API-centric integration and the underlying principles of API design. Participants will then design and deploy an API artifact using three different approaches. Subsequent labs focus on essential operational capabilities, including API security, testing, monitoring, analytics, consumption, and runtime operations.
+The session begins with an introduction to API-centric integration and the underlying principles of API design. Participants will then design and deploy an API artifact using three different approaches. Subsequent hands-on focus on essential operational capabilities, including API security, testing, monitoring, analytics, consumption, and runtime operations.
 A real-world service scenario will demonstrate how to create an API artifact-based solution for an actual business use case, including the integration of an agent or MCP server where applicable. The session concludes with a discussion of implementation considerations, a roadmap outlook, and an interactive Q&A. This practical format is intended to help participants apply API-centric concepts to enterprise integration scenarios.
 
 
