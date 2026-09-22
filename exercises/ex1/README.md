@@ -178,6 +178,9 @@ Once Generated, click to **add**.
 <br>
 
 6. Now we can see another approach to create API artifact from **SAP backend API**(SAP Gateway backend system) **via API provider**.
+   
+> [!NOTE]
+> please select runtime profile as **Integration cell**. 
 
 Now once again select API provider method from list.
 
