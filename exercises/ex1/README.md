@@ -222,8 +222,15 @@ You can also check Resources and Policy tab for more details about this API arti
 
 ## Exercise 1.4 – Create API artifact via reusable API
 
-1. We have already created Reusable API artifact with name **Central Security Reusable API**.
-   You can use this for next steps.
+1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
+   **click to add** new API artifact and now choose another option via **Reusable API**.
+
+> [!NOTE]
+> please select runtime profile as **Integration cell**. 
+
+
+<br>![](/exercises/ex1/images/ex1_12.png)  
+
 > [!NOTE]
 > A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct adapter. Therefore, it does not have an externally invokable endpoint.
 
