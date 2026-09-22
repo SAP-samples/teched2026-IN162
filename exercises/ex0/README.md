@@ -1,6 +1,7 @@
-# Level 1 Heading
+# API Centric Integration
 
-In this exercise, you will...
+<br>![](/exercises/ex0/images/ex0_01.png)
+
 
 ## Level 2 Heading
 
