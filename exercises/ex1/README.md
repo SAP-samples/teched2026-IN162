@@ -265,9 +265,16 @@ You can also check Resources and Policy tab for more details about this API arti
 
    <br>![](/exercises/ex1/images/ex1_25.png)
 
-5. **Add Authentication and Authorization Policies.**
+5. **Add Authentication and Authorization Policies.** (click and drag to position where you would like to add).
 
-      <br>![](/exercises/ex1/images/ex1_26.png)
+   <br>![](/exercises/ex1/images/ex1_26.png)
+
+
+> [!NOTE]
+> In addition to security policies, you can add mediation policies to extend functionality.
+> For example: Use a Content Modifier to enrich or adjust the message payload.
+> Configure an External Callout to log data to external services such as Loggly.
+   
 
 <br>
 <br>
