@@ -24,7 +24,7 @@ API-centric integration brings API design and integration capabilities together 
   Click to **activate** button if not activated. 
 
 <br>![](/exercises/ex1/images/ex1_01.png)
-********************************check with Marco **************************************
+
 
 ## Exercise 1.2 create your first API artifact via URL/ Open spec file.
 
