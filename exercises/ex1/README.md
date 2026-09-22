@@ -250,6 +250,18 @@ You can also check Resources and Policy tab for more details about this API arti
    
 <br>![](/exercises/ex1/images/ex1_23.png)  
 
+
+3. Click to **Policies** tab.
+   
+   <br>![](/exercises/ex1/images/ex1_24.png)
+   
+   > [!NOTE]
+   > The sender adapter in a Reusable API is automatically set to API Direct. This is important
+   > because it allows the calling API artifact to invoke the Reusable API internally—without an HTTP
+   > endpoint and without external exposure. Now, let’s add a few security policies like
+   > Authentication and Authorization to it.
+
+
    
 
 <br>
