@@ -1,4 +1,4 @@
-# Introduction to topic - API Centric Integration
+# Introduction - API Centric Integration
 
 <br>![](/exercises/ex0/images/ex0_01.png)
 
