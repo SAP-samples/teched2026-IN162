@@ -239,7 +239,7 @@ You can also check Resources and Policy tab for more details about this API arti
    without an HTTP endpoint and without external exposure. Now, let’s add a few security policies like Authentication and Authorization to it.
 
 
-2. Provide below details of Reusable API.
+2. Provide below details of Reusable API. and **Click to Add.**
    | Field | Value |
    | --- | --- |
    | Name 	| ReusableAPI_userXXX|
@@ -248,6 +248,7 @@ You can also check Resources and Policy tab for more details about this API arti
    |API version|	1.0.0|
    |Runtime Profile | Integration Cell|
    
+<br>![](/exercises/ex1/images/ex1_23.png)  
 
    
 
