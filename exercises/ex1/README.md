@@ -229,7 +229,7 @@ You can also check Resources and Policy tab for more details about this API arti
 > please select runtime profile as **Integration cell**. 
 
 
-<br>![](/exercises/ex1/images/ex1_12.png)  
+<br>![](/exercises/ex1/images/ex1_22.png)  
 
 > [!NOTE]
 > A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct adapter. Therefore, it does not have an externally invokable endpoint.
@@ -238,9 +238,16 @@ You can also check Resources and Policy tab for more details about this API arti
 > The sender adapter in a Reusable API is automatically set to API Direct. This is important because it allows the calling API artifact to invoke the Reusable API internally
    without an HTTP endpoint and without external exposure. Now, let’s add a few security policies like Authentication and Authorization to it.
 
-<br>![](/exercises/ex1/images/ex1_21.png)  
 
-2. Now open any API artifact which is already created by you or open api artifact **TicketCreationAPI_userXXX**.
+2. Provide below details of Reusable API.
+   | Field | Value |
+   | --- | --- |
+   | Name 	| ReusableAPI_userXXX|
+   |ID |ReusableAPI_userXXX|
+   |API Base path	|/reusableapi|
+   |API version|	1.0.0|
+   |Runtime Profile | Integration Cell|
+   
 
    
 
