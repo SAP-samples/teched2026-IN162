@@ -327,9 +327,9 @@ You can also check Resources and Policy tab for more details about this API arti
 
 13. Now we have modelled and consumed a Reusable API into the caller API.
 
-    > [!NOTE]
-    > Please note that if the Reusable API is not deployed, then you will not be allowed to deploy the
-    > caller API referring that Reusable API .
+> [!NOTE]
+> Please note that if the Reusable API is not deployed, then you will not be allowed to deploy the
+> caller API referring that Reusable API .
     
     Now let’s deploy the caller API.
 
