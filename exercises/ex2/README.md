@@ -40,7 +40,9 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
   - Whether the token is still valid.
   - Whether the token has the correct audience.
   - Verify client key
-  Only authorized requests are passed to next steps.<br>
+  Only authorized requests are passed to next steps.
+<br>
+  
 
 4. **Authorization Policy**
 
@@ -66,14 +68,17 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
    Trust Upstream MCP authorization – you can enable this to expose API artifact as mcp server.
 
    For OAuth-based authorization, the policy validates the configured Scope Key (JWT claim) and the required Scope value. By default, the scope is set to API.invoke, ensuring
-   that only callers with the appropriate permission can invoke the API. <br>
+   that only callers with the appropriate permission can invoke the API. 
+   
+   <br>
     
 5. Beyond the default template, SAP Integration Suite provides a rich set of policies that can be added to the processing flow to address different API management
    requirements. Common policy categories include:
    - Security – Authenticate and authorize API consumers, validate requests, and protect APIs against malicious or malformed traffic.
    - Traffic Management – Apply policies such as Quota and Spike Arrest to control API consumption and protect backend systems.
    - Transformation and Mediation – Modify request and response payloads, convert data formats, enrich messages, invoke external services, or execute JavaScript and Python
-     scripts as part of the API flow.<br>
+     scripts as part of the API flow.
+  <br>
   <br>
 
 
@@ -95,9 +100,11 @@ The details page displays comprehensive runtime information about the deployed a
 - Endpoints – Displays the runtime endpoint through which the API can be invoked.
 - Artifact Details – Provides deployment metadata and quick navigation to the Artifact Editor or message monitoring.
 - Status Details – Shows the current deployment state and any deployment-related messages.
-- Download and Undeploy – Allows you to download the deployed artifact or remove it from the runtime.<br>
+- Download and Undeploy – Allows you to download the deployed artifact or remove it from the runtime.
+  <br>
 
 This view serves as the primary operational console for managing deployed API Artifacts on the Integration Cell runtime.
+<br>
 
 3. For troubleshooting and diagnostics, the runtime log level of an API Artifact can be configured directly from the monitoring view.
    Supported log levels include:
@@ -105,6 +112,8 @@ This view serves as the primary operational console for managing deployed API Ar
    - Info – Records high-level execution events and is recommended for normal operation.
    - Error – Logs only error conditions and exceptions.
    - Debug – Captures detailed execution information for in-depth troubleshooting.
+  
+   <br>
 
 4. **Congratulations you are successfully finished with exercise 2.**
 
