@@ -27,7 +27,8 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
 
 3. Double click on **Authentication**. And now **enable checkbox** is visible for External OAuth. 
 
-> Note: External OAuth (OIDC) means that your API trusts and validates tokens from an external identity provider to secure access to the API artifact.
+> [!NOTE]
+>  External OAuth (OIDC) means that your API trusts and validates tokens from an external identity provider to secure access to the API artifact.
 
   
   <br>![](/exercises/ex2/images/ex2_02.png)
