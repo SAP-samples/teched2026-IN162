@@ -275,7 +275,9 @@ You can also check Resources and Policy tab for more details about this API arti
 > For example: Use a Content Modifier to enrich or adjust the message payload.
 > Configure an External Callout to log data to external services such as Loggly.
    
+   <br>![](/exercises/ex1/images/ex1_28.png)
 
+   
 <br>
 <br>
 
