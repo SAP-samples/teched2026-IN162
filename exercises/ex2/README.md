@@ -48,11 +48,11 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
    based on OAuth Scopes, Developer Keys, or a combination of both, providing flexible authorization for different API consumption scenarios.
    Now **navigate to any API artifact** created before, and open **policy** tab.<br>
 
-5. Click on **edit**.
+   Click on **edit**.
   
   <br>![](/exercises/ex2/images/ex2_01.png)
 
-6. Double click to **Authorization**, and then to **Policy settings**.
+  Double click to **Authorization**, and then to **Policy settings**.
 
   <br>![](/exercises/ex2/images/ex2_03.png)
 
@@ -68,7 +68,7 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
    For OAuth-based authorization, the policy validates the configured Scope Key (JWT claim) and the required Scope value. By default, the scope is set to API.invoke, ensuring
    that only callers with the appropriate permission can invoke the API. <br>
     
-7. Beyond the default template, SAP Integration Suite provides a rich set of policies that can be added to the processing flow to address different API management
+5. Beyond the default template, SAP Integration Suite provides a rich set of policies that can be added to the processing flow to address different API management
    requirements. Common policy categories include:
    - Security – Authenticate and authorize API consumers, validate requests, and protect APIs against malicious or malformed traffic.
    - Traffic Management – Apply policies such as Quota and Spike Arrest to control API consumption and protect backend systems.
