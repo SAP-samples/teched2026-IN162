@@ -86,7 +86,7 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
  <br>![](/exercises/ex2/images/ex2_04.png)
 
 
-2. Select any api artifact which is already deployed to view details of specific deoployment or go with **PurchaseOrder_userXXX**.<br>
+2. Select any api artifact which is already deployed to view details of specific deployment or go with **PurchaseOrder_userXXX**.<br>
 
  <br>![](/exercises/ex2/images/ex2_05.png)
  
