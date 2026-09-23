@@ -275,9 +275,51 @@ You can also check Resources and Policy tab for more details about this API arti
 > For example: Use a Content Modifier to enrich or adjust the message payload.
 > Configure an External Callout to log data to external services such as Loggly.
    
+   <br>![](/exercises/ex1/images/ex1_27.png)
+
+6. Now let's Comsume reusable API. Go back to you package **TechEd 2026 IN162-0****.
+   Open artifact **TicketCreationAPI_userXXX**.
+   **Click to Edit and navigate to Policies tab**.
+
+
    <br>![](/exercises/ex1/images/ex1_28.png)
 
+
+7. After edit, **Click to references -> Global -> Add References -> API**.
+
+   <br>![](/exercises/ex1/images/ex1_29.png)
+
+
+8. Select **ReusableAPI_userXXX*** API from list. (XXX will be replaced by your user number)
+
+    <br>![](/exercises/ex1/images/ex1_30.png)
+
+
+9. To consume the reusable API, **add a Request-Reply** step along with a **Receiver System to invoke
+   the** reusable API.
+
+   <br>![](/exercises/ex1/images/ex1_31.png)
+
+   <br>![](/exercises/ex1/images/ex1_32.png)
+
    
+   Add request reply and Receiver system as below screenshot. 
+
+    <br>![](/exercises/ex1/images/ex1_33.png)
+
+   
+10. Click to Request Reply 1 and add adapter. 
+   From the list of adapters, **select API Direct** only.  & Since the reusable API already includes an
+   Authentication policy, go ahead and delete the authentication policy from your calling API to avoid
+   duplication.
+
+   
+
+
+
+
+
+
 <br>
 <br>
 
