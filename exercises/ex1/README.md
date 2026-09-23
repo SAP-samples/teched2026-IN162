@@ -313,13 +313,35 @@ You can also check Resources and Policy tab for more details about this API arti
    Authentication policy, go ahead and delete the authentication policy from your calling API to avoid
    duplication.
 
-   
+   <br>![](/exercises/ex1/images/ex1_34.png)
+
+
+11. Open connection tab of API direct, and select source.
+
+   <br>![](/exercises/ex1/images/ex1_35.png)
+
+
+12. Select ReusableAPI_userXXX (with your user number).
+    
+   <br>![](/exercises/ex1/images/ex1_36.png)
+
+13. Now we have modelled and consumed a Reusable API into the caller API.
+
+    > [!NOTE]
+    > Please note that if the Reusable API is not deployed, then you will not be allowed to deploy the
+    > caller API referring that Reusable API .
+    
+    Now let’s deploy the caller API.
+
+    <br>![](/exercises/ex1/images/ex1_37.png)
+
+
+14. **Now You have successfully created & Deployed your API artifact via Reusable API method.**
 
 
 
-
-
-
+**Congratulations!!!!!! You have finished your first exercise**
+    
 <br>
 <br>
 
