@@ -142,3 +142,10 @@ Please details as mentioned below -
 
 **Congratulations you are successfully finished with exercise 3.**
    
+## Summary
+
+You have Create your first API artifact product, published it and created subscription. Also you executed few steps on analytics part too.  
+
+Now we can see real world usecase in next exercise where you will be able to understand how to enable your API artifact ready for agentic comsuption.  
+
+Continue to - [Exercise 4 - Excercise 4 ](../ex4/README.md)
