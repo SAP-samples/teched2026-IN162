@@ -115,7 +115,9 @@ This view serves as the primary operational console for managing deployed API Ar
   
    <br>
 
-4. **Congratulations you are successfully finished with exercise 2.**
+
+
+**Congratulations you are successfully finished with exercise 2.**
 
 <br>
 <br>
