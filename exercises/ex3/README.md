@@ -111,4 +111,34 @@ API Analytics is built‑in capability that gives you usage, performance, and er
 
 
 > [!NOTE]
-> many matrics has been exposed to analyse API artifact. You can check more details https://help.sap.com/docs/integration-suite/isuite-integrations-and-apis/api-artifact-charts with this help document. 
+> many matrics has been exposed to analyse API artifact. You can check more details https://help.sap.com/docs/integration-suite/isuite-integrations-and-apis/api-artifact-charts with this help document.
+
+
+2. You can create customer charts. Click to **Add Custom View.**
+   
+<br>![](/exercises/ex3/images/ex3_12.png)
+
+
+3. And Provide View name - **Custom_View_userXXX** (replace XXX by your user number). and click to **Create**.
+   
+<br>![](/exercises/ex3/images/ex3_13.png)
+
+
+4. Click to **Create** button to create custom chart.
+
+<br>![](/exercises/ex3/images/ex3_14.png)
+
+5. Now we will create custom chart for APIs who are taking larger response time.
+hence Now we can first provide dimensions as **API name, API Product Name & Developer Name.** and Measures as **Response Time**.
+Please details as mentioned below -
+
+<br>![](/exercises/ex3/images/ex3_15.png)
+
+
+6. Then if you scroll down, you can check chart is generated and check details of API who is taking larger response time.
+
+<br>![](/exercises/ex3/images/ex3_16.png)
+
+
+
+   
