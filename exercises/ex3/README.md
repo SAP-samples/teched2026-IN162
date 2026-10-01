@@ -105,9 +105,10 @@ From the product page,
 
 API Analytics is built‑in capability that gives you usage, performance, and error insights specifically for your API artifacts.
 
-Now, You can navigate to **Analysize tab**, select runtime as **Integration Cell**, and choose Artifact type as **API**.
+1. Now, You can navigate to **Analysize tab**, select runtime as **Integration Cell**, and choose Artifact type as **API**.
 
 <br>![](/exercises/ex3/images/ex3_11.png)
 
 
-  
+> [!NOTE]
+> many matrics has been exposed to analyse API artifact. You can check more details https://help.sap.com/docs/integration-suite/isuite-integrations-and-apis/api-artifact-charts with this help document. 
