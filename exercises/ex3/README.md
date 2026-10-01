@@ -102,4 +102,12 @@ From the product page,
 
 
 ## Exercise 3.3 Modern API Analytics.
+
+API Analytics is built‑in capability that gives you usage, performance, and error insights specifically for your API artifacts.
+
+Now, You can navigate to **Analysize tab**, select runtime as **Integration Cell**, and choose Artifact type as **API**.
+
+<br>![](/exercises/ex3/images/ex3_11.png)
+
+
   
