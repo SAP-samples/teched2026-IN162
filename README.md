@@ -37,8 +37,8 @@ You can explore the following SAP Discovery Center missions to get started and b
 To complete the exercises, the access to the following systems have been provided.
 In case you are not able to access any of these systems please contact the workshop instructors.
 
-**Tenant A** - https://workshop02a.integrationsuite-cpi049.cfapps.eu10-003.hana.ondemand.com/shell/home
-**Tenant B** - https://workshop02b.integrationsuite-cpi050.cfapps.eu20-002.hana.ondemand.com/shell/home
+**Tenant A** - https://workshop02a.integrationsuite-cpi049.cfapps.eu10-003.hana.ondemand.com/shell/home <br>
+**Tenant B** - https://workshop02b.integrationsuite-cpi050.cfapps.eu20-002.hana.ondemand.com/shell/home <br>
 
 **Login Details** - 
 **Username** - UserXXX (example: User001, User010 etc.)
