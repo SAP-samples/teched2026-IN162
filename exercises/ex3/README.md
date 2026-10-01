@@ -140,5 +140,5 @@ Please details as mentioned below -
 <br>![](/exercises/ex3/images/ex3_16.png)
 
 
-
+**Congratulations you are successfully finished with exercise 3.**
    
