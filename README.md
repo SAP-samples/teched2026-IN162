@@ -41,6 +41,7 @@ In case you are not able to access any of these systems please contact the works
 **Tenant B** - https://workshop02b.integrationsuite-cpi050.cfapps.eu20-002.hana.ondemand.com/shell/home
 
  
+<br>![](/exercises/ex1/images/ex1_01.png)
 
 
 
