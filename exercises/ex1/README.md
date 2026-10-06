@@ -134,6 +134,10 @@ Once successfully deployed, you should see successfull message at bottom.
 ## Exercise 1.3 Create API artifact via API Provider.
 
 
+<br>![](/exercises/ex1/images/servicenowusecase.png)  
+
+
+
 1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
    **click to add** new API artifact and now choose another option via **API provider**.
 
