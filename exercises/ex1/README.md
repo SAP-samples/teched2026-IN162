@@ -133,7 +133,7 @@ Once successfully deployed, you should see successfull message at bottom.
 
 ## Exercise 1.3 Create API artifact via API Provider.
 
-Here is usecase / real world example :<br>  
+Usecase / real world example :<br>  
 
 <br>![](/exercises/ex1/images/servicenowusecase.png)  
 
@@ -142,7 +142,6 @@ Here is usecase / real world example :<br>
 
 🧩 In this exercise, an API artifact is created using 🔌 API Provider ➡️ 🎫 ServiceNow system, exposing a 📥 GET operation to retrieve existing incidents or tickets.
    (The artifact can later be extended with a POST operation to create ServiceNow incidents. and Authentication, validation, quota, and monitoring are handled centrally.)<br>
-
 
 
 You will get modelling experience of API artifact in SAP Integration Suite via 2nd method API provider. <br>  
@@ -206,7 +205,7 @@ Once Generated, click to **add**.<br>
 ## Exercise 1.4 – Create API artifact via reusable API
 
 
-Here is usecase / real world example :<br>  
+Usecase / real world example :<br>  
 
 <br>![](/exercises/ex1/images/reusableapiusecase.png)  
 
@@ -216,7 +215,7 @@ Here is usecase / real world example :<br>
              ticket details. The company already deployed a reusable API artifact that returns client details for other teams.<br>
    
 🧩 In this exercise, You will create rusable API artifact and deploy it, and the same ServiceNow incidents API artifact, you add a reference to this deployed artifact instead of rebuilding that logic.<br>
-♻️ The Server Inventory API stays reusable for other APIs, and the existing authentication, validation, quota, and monitoring remain handled centrally.<br><br>
+♻️ The API artifact stays reusable for other APIs, and the existing authentication, validation, quota, and monitoring remain handled centrally.<br><br>
 
 
 1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
