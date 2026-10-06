@@ -211,7 +211,7 @@ Here is usecase / real world example :<br>
 <br>![](/exercises/ex1/images/reusableapiusecase.png)  
 
 
-🏢 Use case: Here we will with same usecase related to service now in Exercise 1.3.<br> 
+🏢 Use case: Here we will continue with same usecase related to service now in Exercise 1.3.<br> 
              🚨 After the critical server failure is reported, the support team wants each ServiceNow incident to show which server failed and who owns it, not just the
              ticket details. The company already deployed a reusable API artifact that returns client details for other teams.<br>
    
