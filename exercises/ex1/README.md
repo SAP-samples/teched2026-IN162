@@ -30,7 +30,7 @@ After enabling Integration Cell runtime, We can now actually create API artifact
 Here is usecase / real world example : 
 
 
-<br>![](/exercises/ex1/images/PO_usecase.png)
+<br>![](/exercises/ex1/images/POusecase.png)
 
 
 
