@@ -174,48 +174,6 @@ Once Generated, click to **add**.
 5. **First Deploy new Artifact. Now you have successfully created API artifact via API provider.**
 <br>
 
-6. Now we can see another approach to create API artifact from **SAP backend API**(SAP Gateway backend system) **via API provider**.
-   
-> [!NOTE]
-> please select runtime profile as **Integration Cell**. 
-
-Now once again select API provider method from list.
-
-<br>![](/exercises/ex1/images/ex1_12.png)
-
-
-7. In discoverable system section, select backend SAP Gateway system.
-
-<br>![](/exercises/ex1/images/ex1_17.png)   
-
-
-8. Once system is discovered, list of APIs will be visible. Select **API_SALES_ORDER_SRV** and click to **Next**.
-
-<br>![](/exercises/ex1/images/ex1_18.png)  
-
-9. select SAP backend system destiantion **s4hana-onpremise-catalog**. and provide below details:
-   
-   | Field | Value |
-   | --- | --- |
-   |name 	|SalesOrder_userXXX|
-   |ID |SalesOrder_userXXX|
-   |API Base path	|/ticketcreation_userXXX (please add your username number) |
-   |API version|	1.0.0|
-
-  and click to **add**.
-
-*****provide scrennshot*******
-
-
-10. Deploy API artifact.
-<br>
-*****provide scrennshot*******
-<br>
-
-11. **Now you have successfully added another API artifact by using available backend system.**
-You can also check Resources and Policy tab for more details about this API artifact.
-<br>
-
 
 ## Exercise 1.4 – Create API artifact via reusable API
 
