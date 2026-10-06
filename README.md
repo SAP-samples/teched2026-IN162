@@ -58,9 +58,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 3.3 - Modern API Analytics](exercises/ex3/README.md#exercise-23-monitor-api-artifact)
 
   
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
