@@ -140,6 +140,9 @@ Please details as mentioned below -
 <br>![](/exercises/ex3/images/ex3_16.png)
 
 
+7. Now you can save newly created custom chart. 
+
+
 **Congratulations you are successfully finished with exercise 3.**
    
 ## Summary
