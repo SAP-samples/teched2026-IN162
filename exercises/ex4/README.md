@@ -1,5 +1,5 @@
 # Exercise 4 - Real world usecase - Enable API Artifact for agentic consumption.
-.
+
 ## Overview
 
 The exercise will typically cover:<br>
