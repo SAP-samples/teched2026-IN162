@@ -82,9 +82,10 @@ The exercise will typically cover:<br>
 
 6. **Quota Policy** -
 
-   For example - A banking API allows each mobile-banking application a maximum of 10,000 transaction requests per day. The quota is identified by the application’s client
+   For example -
+   A banking API allows each mobile-banking application a maximum of 10,000 transaction requests per day. The quota is identified by the application’s client
    ID, so each registered application receives its own limit. Once the limit is reached, SAP Integration Suite rejects further requests with HTTP 429 – Too Many Requests
-   until the quota resets. and we can see how we can create this Quota Policy.
+   until the quota resets. and we can see how we can create this Quota Policy.<br>
 
    Now **navigate to any API artifact** created before, and open **policy** tab.<br>
 
@@ -107,12 +108,31 @@ The exercise will typically cover:<br>
    - Quota identifier - The quota identifier determines whose requests are counted together. example - This gives every registered banking application client id.<br>
 
 
-7.**Surge Protection Policy**
+8. **Surge Protection Policy**
 
-  For example - An airline booking API may receive a sudden burst of requests when flight tickets go on sale. A Spike Arrest policy limits traffic to, for example, 100
-  requests per second, preventing the backend from being overwhelmed. Requests above the limit are rejected with HTTP 429 – Too Many Requests and can be retried later.
+  For example - 
+  An airline booking API may receive a sudden burst of requests when flight tickets go on sale. A Spike Arrest policy limits traffic to, for example, 100
+  requests per second, preventing the backend from being overwhelmed. Requests above the limit are rejected with HTTP 429 – Too Many Requests and can be retried later.<br>
 
+  Now **navigate to any API artifact** created before, and open **policy** tab.<br>
+
+  Click on **edit**.
   
+  <br>![](/exercises/ex2/images/ex2_01.png)
+
+  You can click on Traffic management Policy and select **Surge Protection**.
+
+  Drag and drop into policy model as shown below, you can now open **Configure** section. 
+
+  <br>![](/exercises/ex2/images/ex2_08.png)
+
+  - On Error - Defines what happens if the policy itself encounters an error.
+               we can use Abort so traffic does not continue when surge protection cannot be evaluated.
+  - Calls - Defines how many requests may pass through during the configured period. example  - 100.
+  - Duration - Defines the numeric length of the period. Together with the duration unit, 1 means one unit of time.
+  - Duration Unit - Defines the time unit. 100 calls with a duration of 1 second means a maximum rate of 100 requests per second.
+
+
 
 ## Exercise 2.2 Monitor API Artifact
 
