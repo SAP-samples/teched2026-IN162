@@ -25,7 +25,16 @@ API-centric integration brings API design and integration capabilities together 
 
 ## Exercise 1.2 create your first API artifact via URL/ Open spec file.
 
-After enabling Integration Cell runtime, following instructions to follow to create your first API artifact. 
+After enabling Integration Cell runtime, We can now actually create API artifact. 
+
+Here is usecase / real world example : 
+
+
+<br>![](/exercises/ex1/images/PO_usecase.png)
+
+
+
+following instructions to follow to create your first API artifact. 
 
 1.	Create a package in your SAP Integration Suite tenant.
    
