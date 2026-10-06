@@ -269,8 +269,7 @@ Usecase / real world example :<br>
 > [!NOTE]
 > In addition to security policies, you can add mediation policies to extend functionality.
 > For example: Use a Content Modifier to enrich or adjust the message payload.
-> Configure an External Callout to log data to external services such as Loggly.
-   
+
    <br>![](/exercises/ex1/images/ex1_27.png)
 
 6. We can now save and deploy this reusable API artifact.
