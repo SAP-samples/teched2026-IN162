@@ -68,19 +68,16 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
    Trust Upstream MCP authorization – you can enable this to expose API artifact as mcp server.
 
    For OAuth-based authorization, the policy validates the configured Scope Key (JWT claim) and the required Scope value. By default, the scope is set to API.invoke, ensuring
-   that only callers with the appropriate permission can invoke the API. 
+   that only callers with the appropriate permission can invoke the API. <br>
    
-   <br>
     
 5. Beyond the default template, SAP Integration Suite provides a rich set of policies that can be added to the processing flow to address different API management
    requirements. Common policy categories include:
    - Security – Authenticate and authorize API consumers, validate requests, and protect APIs against malicious or malformed traffic.
    - Traffic Management – Apply policies such as Quota and Spike Arrest to control API consumption and protect backend systems.
    - Transformation and Mediation – Modify request and response payloads, convert data formats, enrich messages, invoke external services, or execute JavaScript and Python
-     scripts as part of the API flow.
-  <br>
-  <br>
-
+     scripts as part of the API flow.<br><br>
+  
 
 6. **Quota Policy** -
 
