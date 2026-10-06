@@ -1,14 +1,17 @@
-# Exercise 4 - Test API artifact via Bruno application.
+# Exercise 4 - Test API artifact via Bruno application.<br>
 
-1. Open Bruno application installed in your machine.
+1. Open Bruno application installed in your machine.<br>
 
-    **image ****
+    **image **
+
+**We will test now API artifact which was created from service now system for ticketcreation process.**<br>
+
+We will test here GET call.<br>
+
+2. Open your developer hub product to which you have subscribed, and **keep below credentials ready to paste in Bruno.**
   
-<br>![](/exercises/ex3/images/ex3_01.png)
 
+   <br>![](/exercises/ex3/images/ex3_10.png)
 
-
-2. Open your developer hub product to which you have subscribed, and keep below credentials ready to paste in Bruno.
-
-   
+3. also keep ready your API artifact URL from previous artifact 
     
