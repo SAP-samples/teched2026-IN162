@@ -18,7 +18,7 @@ The exercise will typically cover:<br>
 > [!NOTE]
 > The Authentication policy is the first policy executed in the processing flow and is mandatory for every API Artifact. It verifies the identity of the API consumer before allowing the request to proceed. The policy supports multiple authentication mechanisms, including Basic Authentication, OAuth 2.0, and Client Certificate authentication. For newly created API Artifacts, it also supports External OAuth (OIDC), enabling token validation from external identity providers such as Microsoft Entra ID, Google, and Okta. Multiple authentication methods can be enabled simultaneously, allowing APIs to support different client applications and security requirements.
 
-Now **navigate to any API artifact** created before, and open **policy** tab. 
+   Now **navigate to any API artifact** created before, and open **policy** tab. 
 
 2. Click on **edit**.
   
@@ -46,20 +46,21 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
 
 4. **Authorization Policy**
 
-   After a request is successfully authenticated, the **Authorization policy** determines whether the authenticated caller is permitted to invoke the API. It evaluates access
-   based on OAuth Scopes, Developer Keys, or a combination of both, providing flexible authorization for different API consumption scenarios.
+   After a request is successfully authenticated, the **Authorization policy** determines whether the authenticated caller is permitted to invoke the API. It evaluates
+   access based on OAuth Scopes, Developer Keys, or a combination of both, providing flexible authorization for different API consumption scenarios.
+
    Now **navigate to any API artifact** created before, and open **policy** tab.<br>
 
    Click on **edit**.
   
-  <br>![](/exercises/ex2/images/ex2_01.png)
+   <br>![](/exercises/ex2/images/ex2_01.png)
 
-  Double click to **Authorization**, and then to **Policy settings**.
+   Double click to **Authorization**, and then to **Policy settings**.
 
-  <br>![](/exercises/ex2/images/ex2_03.png)
+   <br>![](/exercises/ex2/images/ex2_03.png)
 
 
-  The policy supports the following authorization modes:
+   The policy supports the following authorization modes:
    - OAuth Scope or Developer Key (Default) – Access is granted if the caller presents either the required OAuth scope or a valid Developer Key.
    - OAuth Scope and Developer Key – Both a valid OAuth scope and a Developer Key are required.
    - OAuth Scope Only – Access is granted only if the access token contains the configured OAuth scope.
@@ -67,8 +68,8 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
      
    Trust Upstream MCP authorization – you can enable this to expose API artifact as mcp server.
 
-   For OAuth-based authorization, the policy validates the configured Scope Key (JWT claim) and the required Scope value. By default, the scope is set to API.invoke, ensuring
-   that only callers with the appropriate permission can invoke the API. <br>
+   For OAuth-based authorization, the policy validates the configured Scope Key (JWT claim) and the required Scope value. By default, the scope is set to API.invoke,
+   ensuring that only callers with the appropriate permission can invoke the API.<br>
    
     
 5. Beyond the default template, SAP Integration Suite provides a rich set of policies that can be added to the processing flow to address different API management
