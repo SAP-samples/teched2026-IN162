@@ -141,6 +141,7 @@ Once successfully deployed, you should see successfull message at bottom.
 
 <br>![](/exercises/ex1/images/servicenowusecase.png)  
 
+You will get modelling experience of API artifact in SAP Integration Suite via 2nd method API provider. <br>  
 
 
 1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
