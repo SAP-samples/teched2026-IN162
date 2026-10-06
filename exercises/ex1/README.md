@@ -134,6 +134,11 @@ Once successfully deployed, you should see successfull message at bottom.
 ## Exercise 1.3 Create API artifact via API Provider.
 
 
+🏢 Use case: A company's 🖥️ monitoring system detects a 🔥 critical server failure and automatically sends the incident details to 🎫 ServiceNow.<br>  
+
+🧩 In this exercise, an API artifact is created using 🔌 API Provider ➡️ 🎫 ServiceNow system, exposing a 📥 GET operation to retrieve existing incidents or tickets.
+   (The artifact can later be extended with a POST operation to create ServiceNow incidents. and Authentication, validation, quota, and monitoring are handled centrally.<br>
+
 <br>![](/exercises/ex1/images/servicenowusecase.png)  
 
 
