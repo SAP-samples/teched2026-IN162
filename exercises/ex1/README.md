@@ -80,8 +80,7 @@ After enabling Integration Cell runtime, following instructions to follow to cre
    | API Base path | /purchaseorders_userXXX (please add your username number) |
    | API State |Active |
    | API Version | 1.0.0  | 
-   | Service Type| REST | 
-
+ 
  <br>![](/exercises/ex1/images/ex1_08.png)  
 
  After successfully adding API artifact, we can see detailed information about API in **Overview & Target EndPoint** tabs.
