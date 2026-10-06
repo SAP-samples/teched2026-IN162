@@ -137,7 +137,7 @@ Once successfully deployed, you should see successfull message at bottom.
 🏢 Use case: A company's 🖥️ monitoring system detects a 🔥 critical server failure and automatically sends the incident details to 🎫 ServiceNow.<br>  
 
 🧩 In this exercise, an API artifact is created using 🔌 API Provider ➡️ 🎫 ServiceNow system, exposing a 📥 GET operation to retrieve existing incidents or tickets.
-   (The artifact can later be extended with a POST operation to create ServiceNow incidents. and Authentication, validation, quota, and monitoring are handled centrally.<br>
+   (The artifact can later be extended with a POST operation to create ServiceNow incidents. and Authentication, validation, quota, and monitoring are handled centrally.)<br>
 
 <br>![](/exercises/ex1/images/servicenowusecase.png)  
 
@@ -189,8 +189,7 @@ Operation 2 — Get incident by sys_id. Method GET on path /{sys_id}, where sys_
 
 <br>![](/exercises/ex1/images/ex1_15.png)  
 
-Once Generated, click to **add**.
-<br>
+Once Generated, click to **add**.<br>
 
 > [!NOTE]
 > Generation of open api specification might take few seconds.
@@ -201,6 +200,14 @@ Once Generated, click to **add**.
 
 
 ## Exercise 1.4 – Create API artifact via reusable API
+
+🏢 Use case: Here we will with same usecase related to service now in Exercise 1.3.<br> 
+             🚨 After the critical server failure is reported, the support team wants each ServiceNow incident to show which server failed and who owns it, not just the
+             ticket details. The company already deployed a reusable API artifact that returns client details for other teams.<br>
+   
+🧩 In this exercise, You will create rusable API artifact and deploy it, and the same ServiceNow incidents API artifact, you add a reference to this deployed artifact instead of rebuilding that logic.<br>
+♻️ The Server Inventory API stays reusable for other APIs, and the existing authentication, validation, quota, and monitoring remain handled centrally.<br><br>
+
 
 1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
    **click to add** new API artifact and now choose another option via **Reusable API**.
