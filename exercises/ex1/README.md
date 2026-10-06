@@ -71,7 +71,7 @@ After enabling Integration Cell runtime, following instructions to follow to cre
 
    | Field | Value |
    | --- | --- |
-   | File name|  download this json and upload to your file name <br>![click here](https://github.com/SAP-samples/teched2026-IN162/blob/main/exercises/ex1/images/OP_PURCHASEORDER_0001.json)|
+   | File name|  download this json and upload to your file name <br> [click here](https://github.com/SAP-samples/teched2026-IN162/blob/main/exercises/ex1/images/OP_PURCHASEORDER_0001.json)|
    | Target/ Destination|  <br>![](/exercises/ex1/images/ex1_09.png)  |
    | Name| Purchase Order |
    | ID| Purchase_Order |
