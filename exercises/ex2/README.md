@@ -107,6 +107,7 @@ The exercise will typically cover:<br>
    - Duration unit - Duration Unit defines the time unit for the quota period. example  - day.<br>
    - Quota identifier - The quota identifier determines whose requests are counted together. example - This gives every registered banking application client id.<br>
 
+   You can save your artifact now. 
 
 8. **Surge Protection Policy**
 
@@ -126,13 +127,14 @@ The exercise will typically cover:<br>
 
   <br>![](/exercises/ex2/images/ex2_08.png)
 
-  - On Error - Defines what happens if the policy itself encounters an error.
-               we can use Abort so traffic does not continue when surge protection cannot be evaluated.
-  - Calls - Defines how many requests may pass through during the configured period. example  - 100.
-  - Duration - Defines the numeric length of the period. Together with the duration unit, 1 means one unit of time.
-  - Duration Unit - Defines the time unit. 100 calls with a duration of 1 second means a maximum rate of 100 requests per second.
+  - On Error - Defines what happens if the policy itself encounters an error.<br>
+               we can use Abort so traffic does not continue when surge protection cannot be evaluated.<br>
+  - Calls - Defines how many requests may pass through during the configured period. example  - 100.<br>
+  - Duration - Defines the numeric length of the period. Together with the duration unit, 1 means one unit of time.<br>
+  - Duration Unit - Defines the time unit. 100 calls with a duration of 1 second means a maximum rate of 100 requests per second.<br>
 
-
+  You can save your artifact now. <br>
+  
 
 ## Exercise 2.2 Monitor API Artifact
 
