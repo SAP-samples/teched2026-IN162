@@ -105,7 +105,14 @@ The exercise will typically cover:<br>
    Duration - Duration defines the numeric length of the quota window. example - 1
    Duration unit - Duration Unit defines the time unit for the quota period. example  - day
    Quota identifier - The quota identifier determines whose requests are counted together. example - This gives every registered banking application client id. 
-   
+
+
+7.**Surge Protection Policy**
+
+  For example - An airline booking API may receive a sudden burst of requests when flight tickets go on sale. A Spike Arrest policy limits traffic to, for example, 100
+  requests per second, preventing the backend from being overwhelmed. Requests above the limit are rejected with HTTP 429 – Too Many Requests and can be retried later.
+
+  
 
 ## Exercise 2.2 Monitor API Artifact
 
