@@ -32,9 +32,14 @@ Here is usecase / real world example :
 
 <br>![](/exercises/ex1/images/POusecase.png)
 
+🏢 Use case: A company receives a purchase request from a 🏪 supplier portal, 🖥️ procurement application, or 🤖 AI assistant.
+✅ The request must be validated before the purchase order is created, then sent to SAP S/4HANA Cloud through its Purchase Order API.
+🛡️ SAP Integration Suite exposes a governed API artifact that validates the request and applies 🔐 security and 🚦 traffic policies.
+🔌 The API artifact then calls the S/4HANA Cloud Purchase Order API using a configured destination.
+🗄️ The S/4HANA Cloud OData service supports ➕ creating, ✏️ updating, 👁️ reading, and 🗑️ deleting purchase orders.
 
 
-following instructions to follow to create your first API artifact. 
+So first see now how we can create this API artifact. following instructions to follow to create your first API artifact. 
 
 1.	Create a package in your SAP Integration Suite tenant.
    
