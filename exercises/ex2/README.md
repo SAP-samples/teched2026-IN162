@@ -100,8 +100,11 @@ The exercise will typically cover:<br>
 
    <br>![](/exercises/ex2/images/ex2_07.png)
 
-
-
+   Start time  - The start time defines when the quota counter begins. example '2026-10-07 00:00:00 UTC'
+   Calls - Calls define the maximum number of inbound requests allowed within the quota period.  exmaple - 1000
+   Duration - Duration defines the numeric length of the quota window. example - 1
+   Duration unit - Duration Unit defines the time unit for the quota period. example  - day
+   Quota identifier - The quota identifier determines whose requests are counted together. example - This gives every registered banking application client id. 
    
 
 ## Exercise 2.2 Monitor API Artifact
