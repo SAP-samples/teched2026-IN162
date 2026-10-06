@@ -77,7 +77,7 @@ After enabling Integration Cell runtime, following instructions to follow to cre
    | ID| Purchase_Order |
    | Relative URL| /sap/purchase_order | 
    | Service Type| ODATA | 
-   | API Base path | /purchaseorders |
+   | API Base path | /purchaseorders_userXXX (please add your username number) |
    | API State |Active |
    | API Version | 1.0.0  | 
    | Service Type| REST | 
@@ -147,7 +147,7 @@ Once successfully deployed, you should see successfull message at bottom.
    |API Provider | 	servicenow|
    |Relative URL|	/api/now/table/incident |
    |Service type |	REST|
-   |API Base path	|/ticketcreation|
+   |API Base path	|/ticketcreation_userXXX (please add your username number)|
    |API state| 	Active|
    |API version|	1.0.0|
    |Runtime profile |	Integration Cell|
@@ -200,7 +200,7 @@ Now once again select API provider method from list.
    | --- | --- |
    |name 	|SalesOrder_userXXX|
    |ID |SalesOrder_userXXX|
-   |API Base path	|/ticketcreation|
+   |API Base path	|/ticketcreation_userXXX (please add your username number) |
    |API version|	1.0.0|
 
   and click to **add**.
@@ -242,7 +242,7 @@ You can also check Resources and Policy tab for more details about this API arti
    | --- | --- |
    | Name 	| ReusableAPI_userXXX (replace XXX with your number ex 010)|
    |ID |ReusableAPI_userXXX (replace XXX with your number ex. 010)|
-   |API Base path	|/reusableapi|
+   |API Base path	|/reusableapi_userXXX (please add your username number) |
    |API version|	1.0.0|
    |Runtime Profile | Integration Cell|
    
