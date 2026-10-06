@@ -97,7 +97,7 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
 
 1. Once the API Artifact has been successfully deployed, you can monitor its runtime status and operational details from the Monitor view in SAP Integration Suite.
 
-   Navigate to **Monitor** and select runtime as **Integration cell** and click **Manage Integration Content**.
+   Navigate to **Monitor** and select runtime as **Integration Cell** and click **Manage Integration Content**.
 
  <br>![](/exercises/ex2/images/ex2_04.png)
 
