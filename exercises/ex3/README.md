@@ -119,7 +119,7 @@ API Analytics is built‑in capability that gives you usage, performance, and er
 <br>![](/exercises/ex3/images/ex3_12.png)
 
 
-3. And Provide View name - **Custom_View_userXXX** (replace XXX by your user number). and click to **Create**.
+3. And Provide View name - **Custom_View_userXXX** (replace XXX by any uniqure characters as numbers will not be accepted). and click to **Create**.
    
 <br>![](/exercises/ex3/images/ex3_13.png)
 
