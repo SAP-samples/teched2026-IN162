@@ -133,13 +133,17 @@ Once successfully deployed, you should see successfull message at bottom.
 
 ## Exercise 1.3 Create API artifact via API Provider.
 
+Here is usecase / real world example :<br>  
+
+<br>![](/exercises/ex1/images/servicenowusecase.png)  
+
 
 🏢 Use case: A company's 🖥️ monitoring system detects a 🔥 critical server failure and automatically sends the incident details to 🎫 ServiceNow.<br>  
 
 🧩 In this exercise, an API artifact is created using 🔌 API Provider ➡️ 🎫 ServiceNow system, exposing a 📥 GET operation to retrieve existing incidents or tickets.
    (The artifact can later be extended with a POST operation to create ServiceNow incidents. and Authentication, validation, quota, and monitoring are handled centrally.)<br>
 
-<br>![](/exercises/ex1/images/servicenowusecase.png)  
+
 
 You will get modelling experience of API artifact in SAP Integration Suite via 2nd method API provider. <br>  
 
@@ -200,6 +204,12 @@ Once Generated, click to **add**.<br>
 
 
 ## Exercise 1.4 – Create API artifact via reusable API
+
+
+Here is usecase / real world example :<br>  
+
+<br>![](/exercises/ex1/images/reusableapiusecase.png)  
+
 
 🏢 Use case: Here we will with same usecase related to service now in Exercise 1.3.<br> 
              🚨 After the critical server failure is reported, the support team wants each ServiceNow incident to show which server failed and who owns it, not just the
