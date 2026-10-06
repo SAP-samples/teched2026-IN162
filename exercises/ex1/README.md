@@ -39,7 +39,7 @@ Here is usecase / real world example :<br>
 🗄️ The S/4HANA Cloud OData service supports ➕ creating, ✏️ updating, 👁️ reading, and 🗑️ deleting purchase orders.<br> 
 
 
-So first see now how we can create this API artifact. following instructions to follow to create your first API artifact. <br> 
+So first see now how we can create this API artifact. following instructions to follow to create your first API artifact. <br> (security and monitoring part will cover with other real world usecases in next exercise 2)
 
 1.	Create a package in your SAP Integration Suite tenant.<br> 
    
