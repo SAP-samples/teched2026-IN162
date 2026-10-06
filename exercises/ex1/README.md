@@ -25,26 +25,27 @@ API-centric integration brings API design and integration capabilities together 
 
 ## Exercise 1.2 create your first API artifact via URL/ Open spec file.
 
-After enabling Integration Cell runtime, We can now actually create API artifact. 
+After enabling Integration Cell runtime, We can now actually create API artifact.<br>  
 
-Here is usecase / real world example : 
+Here is usecase / real world example :<br>  
 
 
 <br>![](/exercises/ex1/images/POusecase.png)
 
-🏢 Use case: A company receives a purchase request from a 🏪 supplier portal, 🖥️ procurement application, or 🤖 AI assistant.
-✅ The request must be validated before the purchase order is created, then sent to SAP S/4HANA Cloud through its Purchase Order API.
-🛡️ SAP Integration Suite exposes a governed API artifact that validates the request and applies 🔐 security and 🚦 traffic policies.
-🔌 The API artifact then calls the S/4HANA Cloud Purchase Order API using a configured destination.
-🗄️ The S/4HANA Cloud OData service supports ➕ creating, ✏️ updating, 👁️ reading, and 🗑️ deleting purchase orders.
+🏢 Use case: A company receives a purchase request from a 🏪 supplier portal, 🖥️ procurement application, or 🤖 AI assistant.<br> 
+✅ The request must be validated before the purchase order is created, then sent to SAP S/4HANA Cloud through its Purchase Order API.<br> 
+🛡️ SAP Integration Suite exposes a governed API artifact that validates the request and applies 🔐 security and 🚦 traffic policies.<br> 
+🔌 The API artifact then calls the S/4HANA Cloud Purchase Order API using a configured destination.<br> 
+🗄️ The S/4HANA Cloud OData service supports ➕ creating, ✏️ updating, 👁️ reading, and 🗑️ deleting purchase orders.<br> 
 
 
-So first see now how we can create this API artifact. following instructions to follow to create your first API artifact. 
+So first see now how we can create this API artifact. following instructions to follow to create your first API artifact. <br> 
 
-1.	Create a package in your SAP Integration Suite tenant.
+1.	Create a package in your SAP Integration Suite tenant.<br> 
    
    Now that you are logged into the tenant.<br> 
-   **Create a new Package** from the **Integration and APIs** sub-menu under the **Design** menu (Click on the 'hamburger' icon on the left to launch the menu, if it's hidden).
+   **Create a new Package** from the **Integration and APIs** sub-menu under the **Design** menu (Click on the 'hamburger' icon on the left to launch the menu, if it's
+   hidden).
 
 <br>![](/exercises/ex1/images/ex1_02.png)
 
