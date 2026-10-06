@@ -105,7 +105,7 @@ From the product page,
 
 API Analytics is built‑in capability that gives you usage, performance, and error insights specifically for your API artifacts.
 
-1. Now, You can navigate to **Analysize tab**, select runtime as **Integration Cell**, and choose Artifact type as **API**.
+1. Now, You can navigate to **Analyse tab**, select runtime as **Integration Cell**, and choose Artifact type as **API**.
 
 <br>![](/exercises/ex3/images/ex3_11.png)
 
