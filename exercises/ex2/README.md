@@ -88,8 +88,11 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
    ID, so each registered application receives its own limit. Once the limit is reached, SAP Integration Suite rejects further requests with HTTP 429 – Too Many Requests
    until the quota resets. and we can see how we can create this Quota Policy.
 
-   
+   Now **navigate to any API artifact** created before, and open **policy** tab.<br>
 
+   Click on **edit**.
+  
+   
    
 
 
