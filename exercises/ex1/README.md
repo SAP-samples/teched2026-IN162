@@ -75,6 +75,7 @@ After enabling Integration Cell runtime, following instructions to follow to cre
    | Target/ Destination|  <br>![](/exercises/ex1/images/ex1_09.png)  |
    | Name| Purchase Order |
    | ID| Purchase_Order |
+   | Relative URL| /sap/purchase_order | 
    | Service Type| ODATA | 
    | API Base path | /purchaseorders |
    | API State |Active |
