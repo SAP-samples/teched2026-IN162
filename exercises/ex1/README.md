@@ -2,7 +2,7 @@
 
 API-centric integration brings API design and integration capabilities together in a unified experience. It enables you to create APIs that directly connect to backend systems, mediate and transform requests and responses, compose multiple services, and expose simplified interfaces to API consumers. With this approach, you can build APIs ranging from simple managed endpoints to rich integration scenarios while applying security, traffic management, and lifecycle governance as part of the same development experience. In this exercise you will see 3 different ways how to create this api artifact.
 
-## Exercise 1.1 Enable/check integration cell runtime
+## Exercise 1.1 Enable/check Integration Cell runtime
 
 1. Log on to your assigned SAP Integration Suite tenant<br>
 
@@ -14,13 +14,13 @@ API-centric integration brings API design and integration capabilities together 
 > [!NOTE]
 > If you are attending ASUG TechConnect, you are currently in the wrong GitHub branch — please switch to the asug2026 branch and follow the instructions provided there.If you are uncertain about which tenant to use, consult your workshop instructors.
 
-2.	Enable or check Integration cell runtime.
+2.	Enable or check Integration Cell runtime.
    
    > [!NOTE]
-   > We have activated integration cell runtime already. but in case if you want to enable into your company's specific tenant please follow this screenshot.
+   > We have activated Integration Cell runtime already. but in case if you want to enable into your company's specific tenant please follow this screenshot.
 
-  Click to runtime on left side on main page and check in the list if integration cell is activated or not.<br>
-  Newly available API artifact should be deployed on newly available cloud-based runtime ‘integration cell’. <br>
+  Click to runtime on left side on main page and check in the list if Integration Cell is activated or not.<br>
+  Newly available API artifact should be deployed on newly available cloud-based runtime ‘Integration Cell’. <br>
   Click to **activate** button if not activated. 
 
 <br>![](/exercises/ex1/images/ex1_01.png)
@@ -28,7 +28,7 @@ API-centric integration brings API design and integration capabilities together 
 
 ## Exercise 1.2 create your first API artifact via URL/ Open spec file.
 
-After enabling Integration cell runtime, following instructions to follow to create your first API artifact. 
+After enabling Integration Cell runtime, following instructions to follow to create your first API artifact. 
 
 1.	Create a package in your SAP Integration Suite tenant.
    
@@ -57,7 +57,7 @@ After enabling Integration cell runtime, following instructions to follow to cre
    
 <br>![](/exercises/ex1/images/ex1_05.png)
 
-5. Choose runtime profile **Integration cell** and click to **next**.
+5. Choose runtime profile **Integration Cell** and click to **next**.
 
 <br>![](/exercises/ex1/images/ex1_06.png)   
 
@@ -126,7 +126,7 @@ Once successfully deployed, you should see successfull message at bottom.
    **click to add** new API artifact and now choose another option via **API provider**.
 
 > [!NOTE]
-> please select runtime profile as **Integration cell**. 
+> please select runtime profile as **Integration Cell**. 
 
 
 <br>![](/exercises/ex1/images/ex1_12.png)  
@@ -180,7 +180,7 @@ Once Generated, click to **add**.
 6. Now we can see another approach to create API artifact from **SAP backend API**(SAP Gateway backend system) **via API provider**.
    
 > [!NOTE]
-> please select runtime profile as **Integration cell**. 
+> please select runtime profile as **Integration Cell**. 
 
 Now once again select API provider method from list.
 
@@ -226,7 +226,7 @@ You can also check Resources and Policy tab for more details about this API arti
    **click to add** new API artifact and now choose another option via **Reusable API**.
 
 > [!NOTE]
-> please select runtime profile as **Integration cell**. 
+> please select runtime profile as **Integration Cell**. 
 
 
 <br>![](/exercises/ex1/images/ex1_22.png)  
