@@ -123,11 +123,11 @@ Once successfully deployed, you should see successfull message at bottom.
 
 
 > [!NOTE]
-> If you are facing any issue on deploying api artifact, please call your instructors.
+> If you are facing any issue on deploying api artifact, please call your instructors.<br>
 
 
 
-11. **Now you have successfully added your first API artifact and deployed it.** <br>
+11. **Now you have successfully added your first API artifact and deployed it.** <br><br>
 
 
 
