@@ -33,7 +33,7 @@ Here is usecase / real world example :<br>
 <br>![](/exercises/ex1/images/POusecase.png)
 
 
-🏢 Use case: A company receives purchase requests from a 🏪 supplier portal, 🖥️ procurement application, or 🤖 AI assistant, and each one must be sent to SAP S/4HANA Cloud to create a purchase order.<br>  
+🏢 Use case: A company receives purchase requests from a 🏪 supplier portal, 🖥️ procurement application, or 🤖 AI assistant, and each one must be sent to SAP S/4HANA Cloud to create a purchase order. SAP Integration Suite exposes a governed API artifact for this process.<br>  
 
 🧩 In this exercise, you will get modelling experience of API artifact in SAP Integration Suite via first method URL/specification. <br>  
 
