@@ -69,7 +69,7 @@ The exercise will typically cover:<br>
    Trust Upstream MCP authorization – you can enable this to expose API artifact as mcp server.
 
    For OAuth-based authorization, the policy validates the configured Scope Key (JWT claim) and the required Scope value. By default, the scope is set to API.invoke,
-   ensuring that only callers with the appropriate permission can invoke the API.<br>
+   ensuring that only callers with the appropriate permission can invoke the API.<br><br>
    
     
 5. Beyond the default template, SAP Integration Suite provides a rich set of policies that can be added to the processing flow to address different API management
