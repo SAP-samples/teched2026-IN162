@@ -82,6 +82,17 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
   <br>
 
 
+6. **Quota Policy** -
+
+   For example - A banking API allows each mobile-banking application a maximum of 10,000 transaction requests per day. The quota is identified by the application’s client
+   ID, so each registered application receives its own limit. Once the limit is reached, SAP Integration Suite rejects further requests with HTTP 429 – Too Many Requests
+   until the quota resets. and we can see how we can create this Quota Policy.
+
+   
+
+   
+
+
 ## Exercise 2.2 Monitor API Artifact
 
 1. Once the API Artifact has been successfully deployed, you can monitor its runtime status and operational details from the Monitor view in SAP Integration Suite.
