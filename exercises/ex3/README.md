@@ -31,7 +31,7 @@ This completes the lifecycle:
 > Developer Hub can aggregate APIs from multiple Integration Suite runtimes. Business Systems act as the logical source of published integration assets, allowing organizations to build a unified enterprise API catalog across landscapes. Select the business system that contains the deployed API artifact. Developer Hub retrieves all published integration assets from the selected business system and makes them available for creating products.
 
 
-4. Select TicketCreationAPI from list to create product & click to Create product button.
+4. Select TicketCreateionAPI_user### from list to create product & click to Create product button.
 
 
 <br>![](/exercises/ex3/images/ex3_04.png)
