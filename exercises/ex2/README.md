@@ -92,9 +92,19 @@ Now **navigate to any API artifact** created before, and open **policy** tab.
 
    Click on **edit**.
   
-   
-   
+   <br>![](/exercises/ex2/images/ex2_01.png)
 
+   You can click on Traffic management Policy and select **Quota**.
+   
+   <br>![](/exercises/ex2/images/ex2_06.png)
+
+   Drag and drop into policy model as shown below, you can now open **Policy Settings**. 
+
+   <br>![](/exercises/ex2/images/ex2_07.png)
+
+
+
+   
 
 ## Exercise 2.2 Monitor API Artifact
 
