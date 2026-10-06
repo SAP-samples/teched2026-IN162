@@ -199,6 +199,9 @@ Once Generated, click to **add**.<br>
 
 
 5. **First Deploy new Artifact. Now you have successfully created API artifact via API provider.**
+   
+  <br>![](/exercises/ex1/images/ex1_39.png)  
+   
 <br>
 
 
