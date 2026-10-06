@@ -183,4 +183,4 @@ You have activated the Integration Cell runtime, created your first API Artifact
 
 At this stage, the API is available on the Integration Cell runtime but it is not yet discoverable by application developers. The next step is to govern its consumption by publishing it through Developer Hub.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 3 - Consumption (with developer hub) & analytics ](../ex3/README.md)
