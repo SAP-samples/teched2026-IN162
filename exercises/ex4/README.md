@@ -1,4 +1,4 @@
-# Exercise 4 - Real world usecase - Enable API Artifact for agentic consumption via MCP.
+# Exercise 4 - Real world usecase - Create sales order in Shopify.
 
 ## Overview
 
