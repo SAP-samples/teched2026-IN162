@@ -38,7 +38,7 @@ Usecase / real world example :<br>
 🧩 In this exercise, you will get modelling experience of API artifact in SAP Integration Suite via first method URL/specification. <br>  
 
 
-So first see now how we can create this API artifact. following instructions to follow to create your first API artifact. <br> 
+Following instructions to follow to create your first API artifact. <br> 
 (security and monitoring part will be covered in next exercise 2 with different usecases)<br> 
 
 1.	Create a package in your SAP Integration Suite tenant.<br> 
