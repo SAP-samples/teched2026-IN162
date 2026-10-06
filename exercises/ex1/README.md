@@ -27,7 +27,7 @@ API-centric integration brings API design and integration capabilities together 
 
 After enabling Integration Cell runtime, We can now actually create API artifact.<br>  
 
-Here is usecase / real world example :<br>  
+Usecase / real world example :<br>  
 
 
 <br>![](/exercises/ex1/images/POusecase.png)
