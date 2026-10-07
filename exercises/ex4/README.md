@@ -50,4 +50,4 @@
 
 **Congratulations you are successfully finished with exercise 4.**
 
-**You have successfully completed handson**
+**You have successfully completed handson**.
