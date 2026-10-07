@@ -14,7 +14,7 @@ The exercise will typically cover:<br>
 <br>
 
 > [!NOTE]
-> **API Artifact policies **in SAP Integration Suite are built to fit the **SAP API Policy**, but using them does not automatically make you compliant.
+> API Artifact policies in SAP Integration Suite are built to fit the **SAP API Policy**, but using them does not automatically make you compliant.
 > The SAP API Policy sets the rules for how SAP APIs may be used: only documented scenarios, with proper security, rate limits, and no prohibited uses (including uncontrolled AI/agentic traffic).
 > API Artifacts let you add technical controls like authentication, authorization, quota, spike arrest, and threat protection to your APIs.
 > You are compliant only if you configure these controls correctly and stay within the API’s documented limits and allowed use cases.
