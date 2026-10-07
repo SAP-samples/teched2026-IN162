@@ -2,7 +2,7 @@
 
 1. Open Bruno application installed in your machine.<br>
 
-    **image **
+ <br>![](/exercises/ex3/images/ex4_02.png)
 
 **We will test now API artifact which was created from service now system for ticketcreation process.** (We will test GET call)<br>
 
@@ -45,4 +45,8 @@
 
 11. Once token is successfully fetched. Click Send button. 
     You can see result is available. 
-    
+
+  <br>![](/exercises/ex3/images/ex4_09.png)
+
+
+
