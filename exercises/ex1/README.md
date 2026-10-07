@@ -2,7 +2,7 @@
 
 🔗 – API-centric integration brings API design and integration capabilities together in a unified experience.<br>
 🚀 – It enables you to create APIs that directly connect to backend systems, mediate and transform requests and responses, compose multiple services, and expose simplified interfaces to API consumers.<br>
-🛠️ – With this approach, you can build APIs ranging from simple managed endpoints to rich integration scenarios while applying security, traffic management, and lifecycle governance as part of the same development <br> experience.
+🛠️ – With this approach, you can build APIs ranging from simple managed endpoints to rich integration scenarios while applying security, traffic management, and lifecycle governance as part of the same development                experience.<br>
 🎯 – In this exercise you will see 3 different ways how to create this API artifact.<br>
 
 ## Exercise 1.1 Enable/check Integration Cell runtime
