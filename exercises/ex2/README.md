@@ -131,7 +131,7 @@ The exercise will typically cover:<br>
 
   You can click on Traffic management Policy and select **Surge Protection**.
 
-  Drag and drop into policy model as shown below, you can now open **Configure** section. 
+  Drag and drop into policy model as shown below, you can now open **Configure** section. <br>
 
   <br>![](/exercises/ex2/images/ex2_08.png)
 
