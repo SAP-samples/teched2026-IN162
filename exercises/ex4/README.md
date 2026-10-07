@@ -10,11 +10,15 @@
 
    <br>![](/exercises/ex3/images/ex3_10.png)
 
-3. Also keep ready your API artifact URL from previous artifact.<br>
+3. Also keep ready your API artifact URL from previous artifact.
 
    <br>![](/exercises/ex3/images/ex4_01.png)
 
 4. Open Bruno Application.
+
+   <br>![](/exercises/ex3/images/ex4_02.png)
+
+   
 
 
 
