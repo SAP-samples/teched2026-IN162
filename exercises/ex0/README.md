@@ -10,4 +10,6 @@
 
 ## Summary
 
-Now that you have short intro about topic, Continue to - [Exercise 1 - Overview](../ex1/README.md#exercise-1---overview)
+Now that you have short intro about topic, 
+Let's start with handson exercises. 
+Continue to - [Exercise 1 - Design & deploy API artifact by different ways](../ex1/README.md#exercise-1---overview)
