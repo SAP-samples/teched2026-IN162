@@ -152,4 +152,4 @@ You have Create your first API artifact product, published it and created subscr
 Now can test you first API artifact via Bruno application.
 
 
-Continue to - [Exercise 4 - Excercise 4 ](../ex4/README.md)
+Continue to - [Exercise 4 - Test API artifact via Bruno application ](../ex4/README.md)
