@@ -13,6 +13,14 @@ The exercise will typically cover:<br>
 > This is just informative exercise where you don’t need to execute anything but you will get knowledge about securing options.
 <br>
 
+> [!NOTE]
+> API Artifact policies in SAP Integration Suite are built to fit the SAP API Policy, but using them does not automatically make you compliant.
+> The SAP API Policy sets the rules for how SAP APIs may be used: only documented scenarios, with proper security, rate limits, and no prohibited uses (including uncontrolled AI/agentic traffic).
+> API Artifacts let you add technical controls like authentication, authorization, quota, spike arrest, and threat protection to your APIs.
+> You are compliant only if you configure these controls correctly and stay within the API’s documented limits and allowed use cases.
+> For AI or agent scenarios, use supported patterns such as the MCP Gateway in Integration Suite, which aligns with the updated API Policy.
+> In short: API Artifacts help you implement compliant integrations, but you still must follow the SAP API Policy when designing and running them.
+
 1. **Authentication Policy** 
 
 > [!NOTE]
