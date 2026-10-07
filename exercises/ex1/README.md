@@ -343,7 +343,7 @@ Usecase / real world example :<br>
 
 
 
-**Congratulations!!!!!! You have finished your first exercise**
+🎉 **Congratulations!!!!!! You have finished your first exercise**
     
 <br>
 <br>
