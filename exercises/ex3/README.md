@@ -149,5 +149,7 @@ Please details as mentioned below -
 
 You have Create your first API artifact product, published it and created subscription. Also you executed few steps on analytics part too.  
 
+Now can test you first API artifact via Bruno application.
+
 
 Continue to - [Exercise 4 - Excercise 4 ](../ex4/README.md)
