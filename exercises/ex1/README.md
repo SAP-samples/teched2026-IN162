@@ -33,7 +33,7 @@ Usecase / real world example :<br>
 <br>![](/exercises/ex1/images/POusecase.png)
 
 
-🏢 Use case: A company receives purchase requests from a 🏪 supplier portal, 🖥️ procurement application, or 🤖 AI assistant, and each one must be sent to SAP S/4HANA Cloud to create a purchase order. SAP Integration Suite exposes a governed API artifact for this process.<br>  
+🏢 Use case: A company receives purchase requests from a supplier portal, procurement application, or AI assistant, and each one must be sent to SAP S/4HANA Cloud to create a purchase order. SAP Integration Suite exposes a governed API artifact for this process.<br>  
 
 🧩 In this exercise, you will get modelling experience of API artifact in SAP Integration Suite via first method URL/specification. <br>  
 
@@ -138,9 +138,9 @@ Usecase / real world example :<br>
 <br>![](/exercises/ex1/images/servicenowusecase.png)  
 
 
-🏢 Use case: A company's 🖥️ monitoring system detects a 🔥 critical server failure and automatically sends the incident details to 🎫 ServiceNow.<br>  
+🏢 Use case: A company's monitoring system detects a critical server failure and automatically sends the incident details to ServiceNow.<br>  
 
-🧩 In this exercise, an API artifact is created using 🔌 API Provider ➡️ 🎫 ServiceNow system, exposing a 📥 GET operation to retrieve existing incidents or tickets.
+🧩 In this exercise, an API artifact is created using API Provider ➡️ ServiceNow system, exposing a GET operation to retrieve existing incidents or tickets.
    (The artifact can later be extended with a POST operation to create ServiceNow incidents. and Authentication, validation, quota, and monitoring are handled centrally.)<br>
 
 
