@@ -48,5 +48,6 @@
 
   <br>![](/exercises/ex4/images/ex4_09.png)
 
+**Congratulations you are successfully finished with exercise 4.**
 
-
+**You have successfully completed handson**
