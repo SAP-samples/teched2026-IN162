@@ -44,5 +44,5 @@
    <br>![](/exercises/ex3/images/ex4_08.png)
 
 11. Once token is successfully fetched. Click Send button. 
-
+    You can see result is available. 
     
