@@ -18,8 +18,6 @@ There are no dedicated requirement for this session. You would be able to execut
 
 However, you will be able to derive more value from this session, if you have some knowledge and understanding of API management and cloud integration which are top capabilities of SAP Integration Suite.
 
-You can explore the following SAP Discovery Center missions to get started and build expertise with the SAP BTP services used in this hands-on workshop session.
-
 ## System URL and login information
 
 To complete the exercises, the access to the following systems have been provided.
