@@ -4,9 +4,7 @@
 
     **image **
 
-**We will test now API artifact which was created from service now system for ticketcreation process.**<br>
-
-We will test here GET call.<br>
+**We will test now API artifact which was created from service now system for ticketcreation process.** (We will test GET call)<br>
 
 2. Open your developer hub product to which you have subscribed, and **keep below credentials ready to paste in Bruno.**
   
