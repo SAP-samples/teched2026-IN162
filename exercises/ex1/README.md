@@ -342,11 +342,10 @@ Usecase / real world example :<br>
 14. **Now You have successfully created & Deployed your API artifact via Reusable API method.**
 
 
-
 🎉 **Congratulations!!!!!! You have finished your first exercise**
     
 <br>
-<br>
+
 
 ## Summary
 
