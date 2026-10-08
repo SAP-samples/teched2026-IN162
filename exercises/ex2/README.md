@@ -90,7 +90,7 @@ The exercise will typically cover:<br>
 
 6. **Quota Policy** -
 
-    <br>![](/exercises/ex2/images/QuotaPolicy.png)
+    <br>![](/exercises/ex2/images/QuotaPolicy.jpg)
   
    For example -
    A banking API allows each mobile-banking application a maximum of 10,000 transaction requests per day. The quota is identified by the application’s client
@@ -121,7 +121,7 @@ The exercise will typically cover:<br>
 
 8. **Surge Protection Policy**
 
-   <br>![](/exercises/ex2/images/SurgeProtection.png)
+   <br>![](/exercises/ex2/images/SurgeProtection.jpg)
    
   For example - 
   An airline booking API may receive a sudden burst of requests when flight tickets go on sale. A Spike Arrest policy limits traffic to, for example, 100
