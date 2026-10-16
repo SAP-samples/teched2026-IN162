@@ -13,7 +13,17 @@ You will start by enabling and verifying the Integration Cell runtime, which pro
 
 Next, you will make the API production-ready. You will apply security policies, test the protected endpoint, and use monitoring capabilities to understand how the API is being called. You will then package the API artifact into an API product, publish it through the Developer Hub, and experience the consumer perspective: discovering the product, subscribing to it, and consuming the API. Finally, you will explore modern API analytics to understand usage, performance, and consumption patterns.
 
+By the end of the session, you will have a complete, working API lifecycle:
 
+ - A deployed API artifact running on the Integration Cell runtime
+ - Multiple practical ways to create API artifacts from specifications, providers, and reusable APIs
+ - A secured API with policies applied and verified through testing
+ - Operational insight through API monitoring
+ - A published API product that can be discovered and subscribed to in the Developer Hub
+ - A consumed API endpoint tested with Bruno
+ - Visibility into API usage through analytics
+
+More importantly, you will understand how the responsibilities shift across the API lifecycle: API designers and developers create and expose capabilities, platform and security teams govern access and policies, and API consumers discover and use products through a self-service experience. This end-to-end perspective is the foundation for building scalable, governed, and consumption-ready API ecosystems with SAP Integration Suite.
 
 ## Summary
 
