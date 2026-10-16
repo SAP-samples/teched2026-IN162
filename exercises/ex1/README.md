@@ -42,7 +42,7 @@ Usecase / real world example :<br>
 
 
 Following instructions to follow to create your first API artifact. <br> 
-(security and monitoring part will be covered in next exercise 2 with different usecases)<br> 
+(security and monitoring part will be covered in next exercise 2)<br> 
 
 1.	Create a package in your SAP Integration Suite tenant.<br> 
    
