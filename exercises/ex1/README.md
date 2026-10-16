@@ -311,9 +311,7 @@ Usecase / real world example :<br>
 
    
 10. Click to Request Reply 1(drag line to receiver), and add adapter. 
-   From the list of adapters, **select API Direct** only.  & Since the reusable API already includes an
-   Authentication policy, go ahead and delete the authentication policy from your calling API to avoid
-   duplication.
+   From the list of adapters, **select API Direct** only.  
 
    <br>![](/exercises/ex1/images/ex1_34.png)
 
