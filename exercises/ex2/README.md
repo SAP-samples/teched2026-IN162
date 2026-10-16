@@ -10,7 +10,7 @@ The exercise will typically cover:<br>
 ## Exercise 2.1 Secure API Artifact.
 
 > [!NOTE]
-> This is just informative exercise where you don’t need to execute anything but you will get knowledge about securing options.
+> This is just informative exercise where you need to execute small steps about securing options.
 <br>
 
 > [!NOTE]
