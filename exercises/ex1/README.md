@@ -273,7 +273,7 @@ Usecase / real world example :<br>
 
 6. Add **Json Thread Protection policy** too as shown below:
 
-   <br>![](/exercises/ex1/images/ex1_27.png)
+   <br>![](/exercises/ex1/images/ex1_41.png)
 
 
 > [!NOTE]
