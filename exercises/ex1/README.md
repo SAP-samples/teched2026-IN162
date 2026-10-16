@@ -273,7 +273,7 @@ Usecase / real world example :<br>
 
 
 > [!NOTE]
-> In addition to security policies, you can add mediation policies to extend functionality.
+> In addition to security policies, you can add mediation steps to extend functionality.
 > For example: Use a Content Modifier to enrich or adjust the message payload.
 
 We can now save and deploy this reusable API artifact.
