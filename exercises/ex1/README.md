@@ -284,7 +284,7 @@ We can now save and deploy this reusable API artifact.
 
    <br>![](/exercises/ex1/images/ex1_27.png)
 
-7. Now let's Comsume reusable API. Go back to you package **TechEd 2026 IN162-0****.
+7. Now let's Consume reusable API. Go back to you package **TechEd 2026 IN162-0****.
    Open artifact **TicketCreationAPI_userXXX**.
    **Click to Edit and navigate to Policies tab**.
 
