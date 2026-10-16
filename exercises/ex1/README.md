@@ -310,7 +310,7 @@ Usecase / real world example :<br>
     <br>![](/exercises/ex1/images/ex1_33.png)
 
    
-10. Click to Request Reply 1 and add adapter. 
+10. Click to Request Reply 1(drag line to receiver), and add adapter. 
    From the list of adapters, **select API Direct** only.  & Since the reusable API already includes an
    Authentication policy, go ahead and delete the authentication policy from your calling API to avoid
    duplication.
