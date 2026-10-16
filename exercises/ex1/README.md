@@ -271,19 +271,20 @@ Usecase / real world example :<br>
 
    <br>![](/exercises/ex1/images/ex1_26.png)
 
+6. Add **Json Thread Protection policy** too as shown below:
+
+   <br>![](/exercises/ex1/images/ex1_27.png)
+
 
 > [!NOTE]
 > In addition to security policies, you can add mediation policies to extend functionality.
 > For example: Use a Content Modifier to enrich or adjust the message payload.
 
-   <br>![](/exercises/ex1/images/ex1_27.png)
-
-6. Add **Json Thread Protection policy** too as shown below:
+We can now save and deploy this reusable API artifact.
 
    <br>![](/exercises/ex1/images/ex1_27.png)
 
-7. We can now save and deploy this reusable API artifact.
-   Now let's Comsume reusable API. Go back to you package **TechEd 2026 IN162-0****.
+7. Now let's Comsume reusable API. Go back to you package **TechEd 2026 IN162-0****.
    Open artifact **TicketCreationAPI_userXXX**.
    **Click to Edit and navigate to Policies tab**.
 
