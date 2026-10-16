@@ -14,36 +14,33 @@
 
    <br>![](/exercises/ex4/images/ex4_01.png)
 
-4. Open Bruno Application.
 
-   <br>![](/exercises/ex4/images/ex4_02.png)
-
-5. Click to **Start with a Request.**
+4. Click to **Start with a Request.**
 
   <br>![](/exercises/ex4/images/ex4_03.png)
 
-6. Paste your API artifact your here from step number 3.
+5. Paste your API artifact your here from step number 3.
 
   <br>![](/exercises/ex4/images/ex4_04.png)
 
-7. navigate to **Auth** tab and select **OAuth 2.0** from list.
+6. navigate to **Auth** tab and select **OAuth 2.0** from list.
 
   <br>![](/exercises/ex4/images/ex4_05.png)
 
-8. Select Grant type as **Client Credentials.**
+7. Select Grant type as **Client Credentials.**
    
    <br>![](/exercises/ex4/images/ex4_06.png)
 
-9. Provide Access Token URL, Client ID & Client Secret from step number 2.
+8. Provide Access Token URL, Client ID & Client Secret from step number 2.
 
   <br>![](/exercises/ex4/images/ex4_07.png)
 
 
-10. scroll down and click to **Get Access Token** for fetch token.
+9. scroll down and click to **Get Access Token** for fetch token.
     
    <br>![](/exercises/ex4/images/ex4_08.png)
 
-11. Once token is successfully fetched. Click Send button. 
+10. Once token is successfully fetched. Click Send button. 
     You can see result is available. 
 
   <br>![](/exercises/ex4/images/ex4_09.png)
