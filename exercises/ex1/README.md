@@ -308,7 +308,7 @@ We can now save and deploy this reusable API artifact.
    
    Add request reply and Receiver system as below screenshot. 
 
-    <br>![](/exercises/ex1/images/ex1_33.png)
+   <br>![](/exercises/ex1/images/ex1_33.png)
 
    
 11. Click to Request Reply 1(drag line to receiver), and add adapter. 
