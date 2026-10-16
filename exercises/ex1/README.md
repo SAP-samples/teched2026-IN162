@@ -236,10 +236,6 @@ Usecase / real world example :<br>
 > [!NOTE]
 > A Reusable API artifact does not require a target URL or a virtual host since it is designed for internal invocation only via a calling API  using the API Direct adapter. Therefore, it does not have an externally invokable endpoint.
 
-> [!NOTE]
-> The sender adapter in a Reusable API is automatically set to API Direct. This is important because it allows the calling API artifact to invoke the Reusable API internally
-   without an HTTP endpoint and without external exposure.
-
 
 2. Provide below details of Reusable API. and **Click to Add.**
    | Field | Value |
