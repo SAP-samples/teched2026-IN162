@@ -278,7 +278,11 @@ Usecase / real world example :<br>
 
    <br>![](/exercises/ex1/images/ex1_27.png)
 
-6. We can now save and deploy this reusable API artifact.
+6. Add **Json Thread Protection policy** too as shown below:
+
+   <br>![](/exercises/ex1/images/ex1_27.png)
+
+7. We can now save and deploy this reusable API artifact.
    Now let's Comsume reusable API. Go back to you package **TechEd 2026 IN162-0****.
    Open artifact **TicketCreationAPI_userXXX**.
    **Click to Edit and navigate to Policies tab**.
@@ -287,17 +291,17 @@ Usecase / real world example :<br>
    <br>![](/exercises/ex1/images/ex1_28.png)
 
 
-7. After edit, **Click to references -> Global -> Add References -> API**.
+8. After edit, **Click to references -> Global -> Add References -> API**.
 
    <br>![](/exercises/ex1/images/ex1_29.png)
 
 
-8. Select **ReusableAPI_userXXX*** API from list. (XXX will be replaced by your user number)
+9. Select **ReusableAPI_userXXX*** API from list. (XXX will be replaced by your user number)
 
     <br>![](/exercises/ex1/images/ex1_30.png)
 
 
-9. To consume the reusable API, **add a Request-Reply** step along with a **Receiver System to invoke
+10. To consume the reusable API, **add a Request-Reply** step along with a **Receiver System to invoke
    the** reusable API.
 
    <br>![](/exercises/ex1/images/ex1_31.png)
@@ -310,22 +314,22 @@ Usecase / real world example :<br>
     <br>![](/exercises/ex1/images/ex1_33.png)
 
    
-10. Click to Request Reply 1(drag line to receiver), and add adapter. 
+11. Click to Request Reply 1(drag line to receiver), and add adapter. 
    From the list of adapters, **select API Direct** only.  
 
    <br>![](/exercises/ex1/images/ex1_34.png)
 
 
-11. Open connection tab of API direct, and select source.
+12. Open connection tab of API direct, and select source.
 
    <br>![](/exercises/ex1/images/ex1_35.png)
 
 
-12. Select ReusableAPI_userXXX (with your user number).
+13. Select ReusableAPI_userXXX (with your user number).
     
    <br>![](/exercises/ex1/images/ex1_36.png)
 
-13. Now we have modelled and consumed a Reusable API into the caller API.
+14. Now we have modelled and consumed a Reusable API into the caller API.
 
 > [!NOTE]
 > Please note that if the Reusable API is not deployed, then you will not be allowed to deploy the
@@ -337,7 +341,7 @@ Usecase / real world example :<br>
   <br>![](/exercises/ex1/images/ex1_37.png)
 
 
-14. **Now You have successfully created & Deployed your API artifact via Reusable API method.**
+15. **Now You have successfully created & Deployed your API artifact via Reusable API method.**
 
 
 🎉 **Congratulations!!!!!! You have finished your first exercise**
