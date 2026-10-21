@@ -183,7 +183,7 @@ This view serves as the primary operational console for managing deployed API Ar
 
 
 
-🎉 **Congratulations you are successfully finished with exercise 2.**
+🎉 🎉**Congratulations! You have successfully completed Exercise 2.**
 
 <br>
 <br>
