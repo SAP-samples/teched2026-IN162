@@ -47,7 +47,7 @@ In case you are not able to access any of these systems please contact the works
 - [Exercise 2 - Secure & Monitor the New API Artifact](exercises/ex2/README.md#exercise-2---secure--monitor-the-new-api-artifact)
     - [Exercise 2.1 - Secure the new API artifact](exercises/ex2/README.md#exercise-21-secure-the-api-artifact)
     - [Exercise 2.2 - Monitor the API Artifact](exercises/ex2/README.md#exercise-22-monitor-the-api-artifact)
-- [Exercise 3 - Consume (with developer hub) & analyze the New API Artifact](exercises/ex3/README.md#exercise-3-)
+- [Exercise 3 - Consume (with developer hub) & analyze the New API Artifact](exercises/ex3/README.md#exercise-3---consume-with-developer-hub--analyze-the-new-api-artifact)
     - [Exercise 3.1 - Create your first API artifact product](exercises/ex3/README.md#exercise-31-create-your-first-api-artifact-product)
     - [Exercise 3.2 - Discover, Subscribe and Consume the API artifact](exercises/ex3/README.md#exercise-32-discover-subscribe-and-consume-api-artifact)
     - [Exercise 3.3 - Modern API Analytics](exercises/ex3/README.md#exercise-23-monitor-api-artifact)
