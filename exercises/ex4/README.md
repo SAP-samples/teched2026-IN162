@@ -44,7 +44,8 @@
     You can see result is available. 
 
   <br>![](/exercises/ex4/images/ex4_09.png)
+  
 
-🎉 **Congratulations you are successfully finished with exercise 4.**
+🎉 🎉**Congratulations! You have successfully completed Exercise 4.**<br>
 
-✅ **You have successfully completed handson**.
+✅ **You have successfully completed handson exercises**.<br>
