@@ -263,7 +263,7 @@ Usecase / real world example :<br>
 
 5. Add **JSON Thread Protection policy** too as shown below:
 
-   <br>![](/exercises/ex1/images/ex1_41.png)
+   <br>![](/exercises/ex1/images/ex1_41.png) ************
 
 
 > [!NOTE]
@@ -271,11 +271,7 @@ Usecase / real world example :<br>
 
 6. Now, add **Content modifier** step. and
 
-   add body: 
-
-   ```Prompt
-We are modeling reusable api artifact.
-```
+   add body:  ```We are modeling reusable api artifact.```
 
 
 We can now save and deploy this reusable API artifact.
