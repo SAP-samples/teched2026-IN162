@@ -259,22 +259,24 @@ Usecase / real world example :<br>
 > endpoint and without external exposure. 
 
 
-4. Now, let’s add a few security policies like Authentication and Authorization to it. Click to **edit**
+4. Now, let’s add the security policy JSON Thread Protection policy. Click to **edit**
 
-   <br>![](/exercises/ex1/images/ex1_25.png)
-
-5. **Add Authentication and Authorization Policies.** (click and drag to position where you would like to add).
-
-   <br>![](/exercises/ex1/images/ex1_26.png)
-
-6. Add **JSON Thread Protection policy** too as shown below:
+5. Add **JSON Thread Protection policy** too as shown below:
 
    <br>![](/exercises/ex1/images/ex1_41.png)
 
 
 > [!NOTE]
 > In addition to security policies, you can add mediation steps to extend functionality.
-> For example: Use a Content Modifier to enrich or adjust the message payload.
+
+6. Now, add **Content modifier** step. and
+
+   add body: 
+
+   ```Prompt
+We are modeling reusable api artifact.
+```
+
 
 We can now save and deploy this reusable API artifact.
 
