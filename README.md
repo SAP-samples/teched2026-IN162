@@ -14,7 +14,7 @@ The session begins with an introduction to API-centric integration and the under
 
 ## Requirements
 
-There are no dedicated requirement for this session. **You would be able to execute the excercises by just following the descriptions** even if you do not have any experience with SAP Integration Suite.
+There are no dedicated requirement for this session. **You would be able to execute the exercises by just following the descriptions** even if you do not have any experience with SAP Integration Suite.
 
 However, you will be able to derive more value from this session, if you have some knowledge and understanding of API management and cloud integration which are top capabilities of SAP Integration Suite.
 
@@ -28,7 +28,7 @@ In case you are not able to access any of these systems please contact the works
 
 **Login Details** - <br>
 **Username** - UserXXX (example: User001, User010 etc.)<br>
-**Passowrd** - Instructor will provide you. 
+**Password** - Instructor will provide you. 
 
 
 <br>![](/exercises/ex0/images/handsonstructure.png)
