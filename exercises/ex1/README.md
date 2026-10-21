@@ -1,4 +1,4 @@
-# Exercise 1 - Design & deploy API artifact by different ways
+# Exercise 1 - Design & deploy API artifact using different approaches
 
 🔗 – API-centric integration brings API design and integration capabilities together in a unified experience.<br>
 🚀 – It enables you to create APIs that directly connect to backend systems, mediate and transform requests and responses, compose multiple services, and expose simplified interfaces to API consumers.<br>
