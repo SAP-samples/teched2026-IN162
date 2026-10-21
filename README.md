@@ -43,7 +43,7 @@ In case you are not able to access any of these systems please contact the works
     - [Exercise 1.1 - Enable integration cell runtime](exercises/ex1/README.md#exercise-11-enablecheck-integration-cell-runtime)
     - [Exercise 1.2 - Create your first API artifact via URL/ Open specification file](exercises/ex1/README.md#exercise-12-create-your-first-api-artifact-via-url-open-spec-file)
     - [Exercise 1.3 - Create an API artifact via API provider](exercises/ex1/README.md#exercise-13-create-api-artifact-via-api-provider)
-    - [Exercise 1.4 - Create an API artifact via reusable API](exercises/ex1/README.md#exercise-14--create-api-artifact-via-reusable-api)
+    - [Exercise 1.4 - Create an API artifact via reusable API](exercises/ex1/README.md#exercise-14--create-an-api-artifact-via-reusable-api)
 - [Exercise 2 - Secure & Monitor the New API Artifact](exercises/ex2/README.md#exercise-2---secure-test--monitor-the-new-api-artifact)
     - [Exercise 2.1 - Secure the new API artifact](exercises/ex2/README.md#exercise-21-secure-api-artifact)
     - [Exercise 2.2 - Monitor the API Artifact](exercises/ex2/README.md#exercise-23-monitor-api-artifact)
