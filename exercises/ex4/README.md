@@ -1,16 +1,16 @@
-# Exercise 4 - Test API artifact via Bruno application.<br>
+# Exercise 4 - Test the API artifact using Bruno application.<br>
 
 1. Open Bruno application installed in your machine.<br>
 
  <br>![](/exercises/ex4/images/ex4_02.png)
 
-**We will test now API artifact which was created from service now system for ticketcreation process.** (We will test GET call)<br>
+**We will test now API artifact which was created from the service now system for ticket creation process.** (We will test GET call)<br>
 
-2. Open your developer hub product to which you have subscribed, and **keep below credentials ready to paste in Bruno.**<br>
+2. Open Developer Hub product to which you have subscribed, and **keep below credentials ready to paste in Bruno.**<br>
 
    <br>![](/exercises/ex3/images/ex3_10.png)
 
-3. Also keep ready your API artifact URL from previous artifact.
+3. Also keep ready your API artifact URL from the previous artifact.
 
    <br>![](/exercises/ex4/images/ex4_01.png)
 
@@ -19,7 +19,7 @@
 
   <br>![](/exercises/ex4/images/ex4_03.png)
 
-5. Paste your API artifact your here from step number 3.
+5. Paste your API artifact here from step number 3.
 
   <br>![](/exercises/ex4/images/ex4_04.png)
 
@@ -36,7 +36,7 @@
   <br>![](/exercises/ex4/images/ex4_07.png)
 
 
-9. scroll down and click to **Get Access Token** for fetch token.
+9. scroll down and click to **Get Access Token** to fetch token.
     
    <br>![](/exercises/ex4/images/ex4_08.png)
 
@@ -48,4 +48,4 @@
 
 🎉 🎉**Congratulations! You have successfully completed Exercise 4.**<br>
 
-✅ **You have successfully completed handson exercises**.<br>
+✅ **You have successfully completed the hands-on exercises.**.<br>
