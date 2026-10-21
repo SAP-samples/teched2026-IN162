@@ -149,7 +149,7 @@ Please details as mentioned below -
 7. Now you can save newly created custom chart. 
 
 
-🎉 **Congratulations you are successfully finished with exercise 3.**
+🎉 🎉**Congratulations! You have successfully completed Exercise 3.**
    
 ## Summary
 
