@@ -2,7 +2,7 @@
 
 ## Overview
 
-After deploying and verifying an API, the next step is to govern and expose it through Developer Hub. Developer Hub acts as a centralized catalogue for publishing and discovering APIs, Events, and MCP Servers. It enables organizations to create API Products, add documentation and metadata, and manage access through subscriptions and applications. In this exercise, you will publish an API Product, create and subscribe a developer application, obtain credentials, and securely invoke the API. 
+After deploying and verifying an API, the next step is to govern and expose it through Developer Hub. Developer Hub acts as a centralized catalog for publishing and discovering APIs, Events, and MCP Servers. It enables organizations to create API Products, add documentation and metadata, and manage access through subscriptions and applications. In this exercise, you will publish an API Product, create and subscribe a developer application, obtain credentials, and securely invoke the API. 
 This completes the lifecycle: 
 
 **Discover → Create Product → Publish → Create Application → Subscribe → Obtain Credentials → Consume API.**
@@ -11,7 +11,7 @@ This completes the lifecycle:
 ## Exercise 3.1 Create your first API artifact product.
 
 
-1. To get govern access to API artifact, click to developer hub.
+1. To get govern access to API artifact, Open to developer hub.
 
   
 <br>![](/exercises/ex3/images/ex3_01.png)
@@ -31,12 +31,12 @@ This completes the lifecycle:
 > Developer Hub can aggregate APIs from multiple Integration Suite runtimes. Business Systems act as the logical source of published integration assets, allowing organizations to build a unified enterprise API catalog across landscapes. Select the business system that contains the deployed API artifact. Developer Hub retrieves all published integration assets from the selected business system and makes them available for creating products.
 
 
-4. Select TicketCreateionAPI_userXXX from list to create product & click to Create product button.
+4. Select TicketCreateionAPI_userXXX from list to create product & click **Create product** button.
 
 
 <br>![](/exercises/ex3/images/ex3_04.png)
 
-5. Provide details of product mentioned below. and **click to Publish** button.
+5. Provide details of product mentioned below. and click **Publish** button.
    
  | Field | Value |
    | --- | --- |
@@ -47,7 +47,7 @@ This completes the lifecycle:
 <br>![](/exercises/ex3/images/ex3_05.png)
 
 
-Once click on Publish. You will see below message, **click to close**.  
+Once click on Publish. You will see below message, click **close**.  
 
 > [!NOTE]
 > The **Scheduled Requests** page provides a centralized view of all content creation and update operations within Developer Hub. Publication involves synchronizing metadata across multiple platform services. Processing requests asynchronously improves scalability while allowing administrators to monitor publication progress through Scheduled Requests. Initially, the product publication request appears with the status **In Progress**, indicating that Developer Hub is validating the product and synchronizing the content.
@@ -59,7 +59,7 @@ Once click on Publish. You will see below message, **click to close**.
 
 1. **Discover the Product Catalog.**
 
-   Now navigate to Developer hub main page, and new product will be visible in list. Click to **FirstProduct_userXXX** from list.
+   Now navigate to Developer hub main page, and new product will be visible in list. Click **FirstProduct_userXXX** from list.
 
 
 <br>![](/exercises/ex3/images/ex3_06.png)
@@ -79,7 +79,7 @@ From the product page,
 <br>![](/exercises/ex3/images/ex3_08.png)
 
 
-4. Provide the application details that identify the consumer application. And **click to create**.
+4. Provide the application details that identify the consumer application. And click **create**.
 
    
  | Field | Value |
@@ -91,58 +91,59 @@ From the product page,
 <br>![](/exercises/ex3/images/ex3_09.png)
 
 
-5. Now Please wait for few minutes to generate the credentials.
+5. Now, please wait a few minutes for the credentials to be generated.
 
-   After 1 or 2 min credentionals will generate.
+   The credentials will be generated after one or two minutes.
    
    **Meanwhile please move to exercise 3.3 to check API analytics.**
 
 <br>![](/exercises/ex3/images/ex3_10.png)
 
 
-6. You can copy deployed API artifact URL from package, and copy paste client id and secret & token URL.(we will use this for testing purpose in next exercise)  
+6. You can copy deployed **API artifact URL** from package, and copy paste **client id and secret & token URL**.(We will use these for testing purposes in the next exercise).
 
 
 ## Exercise 3.3 Modern API Analytics.
 
-API Analytics is built‑in capability that gives you usage, performance, and error insights specifically for your API artifacts.
+API Analytics is a built‑in capability that gives you usage, performance, and error insights specifically for your API artifacts.
 
-1. Now, You can navigate to **Analyse tab**, select runtime as **Integration Cell**, and choose Artifact type as **API**.
+1. Now, navigate to **Analyse** tab, select runtime as **Integration Cell**, and choose Artifact type as **API**.
 
 <br>![](/exercises/ex3/images/ex3_11.png)
 
 
 > [!NOTE]
-> many matrics has been exposed to analyse API artifact. You can check more details https://help.sap.com/docs/integration-suite/isuite-integrations-and-apis/api-artifact-charts with this help document.
+> many metrics has been exposed to analyse API artifact. You can check more details https://help.sap.com/docs/integration-suite/isuite-integrations-and-apis/api-artifact-charts with this help document.
 
 
-2. You can create customer charts. Click to **Add Custom View.**
+2. You can create custom charts. Click **Add Custom View.**
    
 <br>![](/exercises/ex3/images/ex3_12.png)
 
 
 3. And Provide View name - **Custom_View_userXXX**
 > [!NOTE]
-> **Replace XXX by any uniqure characters as numbers will not be accepted.**
+> **Replace XXX by any unique characters as numbers will not be accepted.**
 
-and click to **Create**.
+and click **Create**.
    
 <br>![](/exercises/ex3/images/ex3_13.png)
 
 
-4. Click to **Create** button to create custom chart.
+4. Click **Create** button to create custom chart.
 
 <br>![](/exercises/ex3/images/ex3_14.png)
 
-5. Now we will create custom chart for APIs who are taking larger response time.
-hence Now we can first provide dimensions as **API name, API Product Name & Developer Name.** and Measures as **Response Time**.
-Please details as mentioned below -
+5. Now, we will create a custom chart for APIs with the highest response times.
+First, provide dimensions as **API name, API Product Name & Developer Name.** and Measures as **Response Time**.
+Please enter the details as mentioned below -
 
 <br>![](/exercises/ex3/images/ex3_15.png)
 
 
-6. Then if you scroll down, you can check chart is generated and check details of API who is taking larger response time.
+6. Then if you scroll down, you can verify that the chart has been generated and review the details of the APIs with the highest response times.
 
+   
 <br>![](/exercises/ex3/images/ex3_16.png)
 
 
@@ -153,9 +154,9 @@ Please details as mentioned below -
    
 ## Summary
 
-You have Create your first API artifact product, published it and created subscription. Also you executed few steps on analytics part too.  
+You have create your first API artifact product, published it and created subscription. Also completed a few steps in the analytics section..  
 
-Now can test you first API artifact via Bruno application.
+Now, you can test your first API artifact using the Bruno application.
 
 
-Continue to - [Exercise 4 - Test API artifact via Bruno application ](../ex4/README.md)
+Continue to - [Exercise 4 - Test the API artifact using Bruno application ](../ex4/README.md)
