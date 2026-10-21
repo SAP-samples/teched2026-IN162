@@ -277,20 +277,30 @@ Usecase / real world example :<br>
    <br>![](/exercises/ex1/images/ex1_43.png)
    
 
-8. Next, add **Groovy Script** from search tab and provide below script to it.
+7. Next, add **Groovy Script** from search tab.
+
+     <br>![](/exercises/ex1/images/ex1_45.png)
+   
+  
+8. Click to below icon.
+
+    <br>![](/exercises/ex1/images/ex1_46.png)
+   
+   Provide below script to it.
    Script : ```  import com.sap.it.script.v2.api.Message;
                                 def Message processData(Message message) {
                                    return message;
                                } ```
 
+  
    <br>![](/exercises/ex1/images/ex1_44.png)
    
 
-10. We can now **save** and **deploy** this reusable API artifact.
+9. We can now **save** and **deploy** this reusable API artifact.
 
   
 
-11. Now let's Consume reusable API. Go back to you package **TechEd 2026 IN162-0****.
+10. Now let's Consume reusable API. Go back to you package **TechEd 2026 IN162-0****.
    Open artifact **TicketCreationAPI_userXXX**.
    **Click to Edit and navigate to Policies tab**.
 
@@ -303,12 +313,12 @@ Usecase / real world example :<br>
    <br>![](/exercises/ex1/images/ex1_29.png)
 
 
-11. Select **ReusableAPI_userXXX*** API from list. (XXX will be replaced by your user number)
+12. Select **ReusableAPI_userXXX*** API from list. (XXX will be replaced by your user number)
 
     <br>![](/exercises/ex1/images/ex1_30.png)
 
 
-12. To consume the reusable API, **add a Request-Reply** step along with a **Receiver System to invoke
+13. To consume the reusable API, **add a Request-Reply** step along with a **Receiver System to invoke
    the** reusable API.
 
    <br>![](/exercises/ex1/images/ex1_31.png)
@@ -321,22 +331,22 @@ Usecase / real world example :<br>
    <br>![](/exercises/ex1/images/ex1_33.png)
 
    
-13. Click to Request Reply 1(drag line to receiver), and add adapter. 
+14. Click to Request Reply 1(drag line to receiver), and add adapter. 
    From the list of adapters, **select API Direct** only.  
 
    <br>![](/exercises/ex1/images/ex1_34.png)
 
 
-14. Open connection tab of API direct, and select source.
+15. Open connection tab of API direct, and select source.
 
    <br>![](/exercises/ex1/images/ex1_35.png)
 
 
-15. Select ReusableAPI_userXXX (with your user number).
+16. Select ReusableAPI_userXXX (with your user number).
     
    <br>![](/exercises/ex1/images/ex1_36.png)
 
-16. Now we have modelled and consumed a Reusable API into the caller API.
+17. Now we have modelled and consumed a Reusable API into the caller API.
 
 > [!NOTE]
 > Please note that if the Reusable API is not deployed, then you will not be allowed to deploy the
@@ -348,7 +358,7 @@ Usecase / real world example :<br>
   <br>![](/exercises/ex1/images/ex1_37.png)
 
 
-17. **Now You have successfully created & Deployed your API artifact via Reusable API method.**
+18. **Now You have successfully created & Deployed your API artifact via Reusable API method.**
 
     
 
