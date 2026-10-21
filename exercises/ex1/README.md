@@ -274,21 +274,14 @@ Usecase / real world example :<br>
    add body:  ```We are modeling reusable api artifact.```
 
 7. Next, add **Groovy Script**.
-   and add below script :
-   
-
-   ```import com.sap.it.script.v2.api.Message;
-
-     def Message processData(Message message) {
-
- 
-    return message;
-   }```
+   and add below script : ```  import com.sap.it.script.v2.api.Message;
+                                def Message processData(Message message) {
+                                   return message;
+                               }
+                           ```
 
 
-
-
-We can now save and deploy this reusable API artifact.
+   We can now save and deploy this reusable API artifact.
 
    <br>![](/exercises/ex1/images/ex1_27.png)
 
