@@ -91,7 +91,7 @@ Following instructions to follow to create your first API artifact. <br>
    | --- | --- |
    | File name|  download this json and upload to your file name <br> [click here](https://github.com/SAP-samples/teched2026-IN162/blob/main/exercises/ex1/images/OP_PURCHASEORDER_0001.json)|
    | Target/ Destination|  <br>![](/exercises/ex1/images/ex1_09.png)  |
-   | Name| Purchase Order |
+   | Name| Purchase Order UserXXX (please add your username number)|
    | ID| Purchase_Order |
    | Relative URL| /sap/purchase_order | 
    | Service Type| ODATA | 
