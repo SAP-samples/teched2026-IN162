@@ -278,13 +278,12 @@ Usecase / real world example :<br>
    
 
 8. Next, add **Groovy Script** from search tab and provide below script to it.
-    ```  import com.sap.it.script.v2.api.Message;
+   Script : ```  import com.sap.it.script.v2.api.Message;
                                 def Message processData(Message message) {
                                    return message;
-                               }
-                           ```
+                               } ```
 
-    <br>![](/exercises/ex1/images/ex1_44.png)
+   <br>![](/exercises/ex1/images/ex1_44.png)
    
 
 10. We can now **save** and **deploy** this reusable API artifact.
