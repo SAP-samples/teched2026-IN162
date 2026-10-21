@@ -1,4 +1,4 @@
-# Exercise 3 - Consumption (with developer hub) & analytics.
+# Exercise 3 - Consume (with developer hub) & analyze the New API Artifact.
 
 ## Overview
 
