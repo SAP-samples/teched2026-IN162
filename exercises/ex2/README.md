@@ -7,7 +7,7 @@ The exercise will typically cover:<br>
 - 📊 Monitor: Track API usage, message processing, errors, performance, and runtime logs to identify and resolve issues.<br>
 
 
-## Exercise 2.1 Secure API Artifact.
+## Exercise 2.1 Secure the API Artifact.
 
 > [!NOTE]
 > This is just informative exercise where you need to execute small steps about securing options.
@@ -74,7 +74,7 @@ The exercise will typically cover:<br>
    - OAuth Scope Only – Access is granted only if the access token contains the configured OAuth scope.
    - Developer Key Only – Access is granted only to subscribed applications presenting a valid Developer Key.
      
-   Trust Upstream MCP authorization – you can enable this to expose API artifact as mcp server.
+   Trust Upstream MCP authorization – you can enable this to expose API artifact as MCP server.
 
    For OAuth-based authorization, the policy validates the configured Scope Key (JWT claim) and the required Scope value. By default, the scope is set to API.invoke,
    ensuring that only callers with the appropriate permission can invoke the API.<br><br>
@@ -112,7 +112,7 @@ The exercise will typically cover:<br>
    <br>![](/exercises/ex2/images/ex2_07.png)
 
    - Start time  - The start time defines when the quota counter begins. example '2026-10-07 00:00:00 UTC'.<br>
-   - Calls - Calls define the maximum number of inbound requests allowed within the quota period.  exmaple - 1000.<br>
+   - Calls - Calls define the maximum number of inbound requests allowed within the quota period.  example - 1000.<br>
    - Duration - Duration defines the numeric length of the quota window. example - 1.<br>
    - Duration unit - Duration Unit defines the time unit for the quota period. example  - day.<br>
    - Quota identifier - The quota identifier determines whose requests are counted together. example - This gives every registered banking application client id.<br>
@@ -148,7 +148,7 @@ The exercise will typically cover:<br>
   You can save your artifact now. <br>
   
 
-## Exercise 2.2 Monitor API Artifact
+## Exercise 2.2 Monitor the API Artifact
 
 1. Once the API Artifact has been successfully deployed, you can monitor its runtime status and operational details from the Monitor view in SAP Integration Suite.
 
@@ -157,7 +157,7 @@ The exercise will typically cover:<br>
  <br>![](/exercises/ex2/images/ex2_04.png)
 
 
-2. Select any api artifact which is already deployed to view details of specific deployment or go with **PurchaseOrder_userXXX**.<br>
+2. Select any API artifact which is already deployed to view details of specific deployment or go with **PurchaseOrder_userXXX**.<br>
 
  <br>![](/exercises/ex2/images/ex2_05.png)
  
@@ -195,4 +195,4 @@ In this exercise, you learned how to secure an API artifact using authentication
 
 At this stage, the API is available on the Integration Cell runtime but it is not yet discoverable by application developers. The next step is to govern its consumption by publishing it through Developer Hub.
 
-Continue to - [Exercise 3 - Consumption (with developer hub) & analytics ](../ex3/README.md)
+Continue to - [Exercise 3 - Consume (with Developer Hub) & analyze ](../ex3/README.md)
