@@ -10,7 +10,7 @@ The exercise will typically cover:<br>
 ## Exercise 2.1 Secure the API Artifact.
 
 > [!NOTE]
-> This is just informative exercise where you need to execute small steps about securing options. We are only exploring authentication and authorization policies without any saving or deploying.  **Only Surge protection you can save and deploy.** 
+> This is just informative exercise where you need to execute small steps about securing options. We are only exploring authentication and authorization policies without any saving or deploying.  
 <br>
 
 > [!NOTE]
