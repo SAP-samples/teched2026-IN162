@@ -83,7 +83,7 @@ Following instructions to follow to create your first API artifact. <br>
 
  <br>![](/exercises/ex1/images/ex1_07.png)    
 
-7. Now choose option via uploading speciation file. Click to **Upload'**.
+7. Now choose option via uploading specification file. Click to **Upload'**.
 
    Enter the following details to create API by uploading open api specification file and click to **Add**.
 
@@ -134,7 +134,7 @@ Once successfully deployed, you should see successfull message at bottom.
 
 
 
-## Exercise 1.3 Create API artifact via API Provider.
+## Exercise 1.3 Create an API artifact via API Provider.
 
 Usecase / real world example :<br>  
 
@@ -147,7 +147,7 @@ Usecase / real world example :<br>
    (The artifact can later be extended with a POST operation to create ServiceNow incidents. and Authentication, validation, quota, and monitoring are handled centrally.)<br>
 
 
-You will get modelling experience of API artifact in SAP Integration Suite via 2nd method API provider. <br>  
+You will get modeling experience of API artifact in SAP Integration Suite via 2nd method API provider. <br>  
 
 
 1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
@@ -185,7 +185,7 @@ You will get modelling experience of API artifact in SAP Integration Suite via 2
 <br>![](/exercises/ex1/images/ex1_14.png)  
 
 
-4. Now **copy** below prompt to generate open API specificiation file and ***click to Generate***.
+4. Now **copy** below prompt to generate open API specification file and ***click to Generate***.
 
 ```Prompt
 Create a REST API with three operations for managing ServiceNow incidents. The base path already points to the incident table (/api/now/table/incident), so all operation paths below are relative to that.
@@ -208,7 +208,7 @@ Once Generated, click to **add**.<br>
 <br>
 
 
-## Exercise 1.4 – Create API artifact via reusable API
+## Exercise 1.4 – Create an API artifact via reusable API
 
 
 Usecase / real world example :<br>  
@@ -220,7 +220,7 @@ Usecase / real world example :<br>
              🚨 After the critical server failure is reported, the support team wants each ServiceNow incident to show which server failed and who owns it, not just the
              ticket details. The company already deployed a reusable API artifact that returns client details for other teams.<br>
    
-🧩 In this exercise, You will create rusable API artifact and deploy it, and the same ServiceNow incidents API artifact, you add a reference to this deployed artifact instead of rebuilding that logic.<br>
+🧩 In this exercise, You will create reusable API artifact and deploy it, and the same ServiceNow incidents API artifact, you add a reference to this deployed artifact instead of rebuilding that logic.<br>
 ♻️ The API artifact stays reusable for other APIs, and the existing authentication, validation, quota, and monitoring remain handled centrally.<br><br>
 
 
@@ -267,7 +267,7 @@ Usecase / real world example :<br>
 
    <br>![](/exercises/ex1/images/ex1_26.png)
 
-6. Add **Json Thread Protection policy** too as shown below:
+6. Add **JSON Thread Protection policy** too as shown below:
 
    <br>![](/exercises/ex1/images/ex1_41.png)
 
@@ -349,7 +349,7 @@ We can now save and deploy this reusable API artifact.
 ## Summary
 
 You have now activated the Integration Cell runtime, created your first API Artifact via 3 different ways, explored its design and runtime components, deployed it successfully.
-Now in next exercise we can secure & monitor these api artifacts. <br> 
+Now in next exercise we can secure & monitor these API artifacts. <br> 
 
 Continue to - [Exercise 2 - Secure & Monitor the New API Artifact](../ex2/README.md)
 
