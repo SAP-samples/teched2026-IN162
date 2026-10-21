@@ -53,7 +53,7 @@ In case you are not able to access any of these systems please contact the works
     - [Exercise 3.3 - Modern API Analytics](exercises/ex3/README.md#exercise-23-monitor-api-artifact)
 - [Exercise 4 - Test the API artifact using Bruno application](exercises/ex4/README.md#exercise-4-).
 
-Optional Exercise for ASUG participants - https://developers.sap.com/tutorials-qa/teched-developer-garage-mcp-gateway#step-4
+Optional Exercise for ASUG participants - 
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
