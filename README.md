@@ -51,7 +51,7 @@ In case you are not able to access any of these systems please contact the works
     - [Exercise 3.1 - Create your first API artifact product](exercises/ex3/README.md#exercise-31-create-your-first-api-artifact-product)
     - [Exercise 3.2 - Discover, Subscribe and Consume the API artifact](exercises/ex3/README.md#exercise-32-discover-subscribe-and-consume-api-artifact)
     - [Exercise 3.3 - Modern API Analytics](exercises/ex3/README.md#exercise-23-monitor-api-artifact)
-- [Exercise 4 - Test the API artifact using Bruno application](exercises/ex4/README.md#exercise-4-).
+- [Exercise 4 - Test the API artifact using Bruno application](exercises/ex4/README.md#exercise-14--create-an-api-artifact-via-reusable-api).
 
 Optional Exercise for ASUG participants - 
 
