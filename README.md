@@ -39,7 +39,7 @@ In case you are not able to access any of these systems please contact the works
 ## Exercises
 
 - [Getting Started](exercises/ex0/README.md#introduction---api-centric-integration)
-- [Exercise 1 - Design & deploy API artifact using different approaches](exercises/ex1/)
+- [Exercise 1 - Design & deploy API artifact using different approaches](exercises/ex1/README.md#exercise-1---design--deploy-api-artifact-using-different-approaches)
     - [Exercise 1.1 - Enable integration cell runtime](exercises/ex1/README.md#exercise-11-enablecheck-integration-cell-runtime)
     - [Exercise 1.2 - Create your first API artifact via URL/ Open specification file](exercises/ex1/README.md#exercise-12-create-your-first-api-artifact-via-url-open-spec-file)
     - [Exercise 1.3 - Create an API artifact via API provider](exercises/ex1/README.md#exercise-13-create-api-artifact-via-api-provider)
