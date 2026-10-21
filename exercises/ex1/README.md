@@ -340,8 +340,9 @@ We can now save and deploy this reusable API artifact.
 
 15. **Now You have successfully created & Deployed your API artifact via Reusable API method.**
 
+    
 
-🎉 **Congratulations!!!!!! You have finished your first exercise**
+🎉 🎉**Congratulations! You have successfully completed Exercise 1.**
     
 <br>
 
