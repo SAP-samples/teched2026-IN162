@@ -112,7 +112,7 @@ Following instructions to follow to create your first API artifact. <br>
 
     
 > [!NOTE]
-> **Resources**
+> **Resources:**
 > You can see details of all resources included in this API artifact in ***Resources*** tab.
 > And with edit option we can add more resources too.
 > <br>![](/exercises/ex1/images/ex1_10.png)
