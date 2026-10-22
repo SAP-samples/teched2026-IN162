@@ -224,7 +224,7 @@ Usecase / real world example :<br>
 ♻️ The API artifact stays reusable for other APIs, and the existing authentication, validation, quota, and monitoring remain handled centrally.<br><br>
 
 > [!NOTE]
-> why You need reusable artifact - A Reusable API Artifact is like a shared building block for your APIs. You define common logic once—such as security
+> Why you need reusable artifact - A Reusable API Artifact is like a shared building block for your APIs. You define common logic once—such as security
 > checks, validation, transformation, or logging—and then other API artifacts can call it instead of copying the same configuration again and again.
 
 
