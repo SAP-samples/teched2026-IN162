@@ -263,7 +263,7 @@ Usecase / real world example :<br>
 
 5. Add **JSON Threat Protection policy** too as shown below:
 
-   First Click to security policies, and select **Json Threat Protection**, 
+   First Click to Security Policies, and select **Json Threat Protection**, 
 
   <br>![](/exercises/ex1/images/ex1_48.png)
 
