@@ -315,7 +315,10 @@ Usecase / real world example :<br>
 
 9. We can now **save** and **deploy** this reusable API artifact **on Integration cell runtime**.
 
-  
+> [!NOTE]
+> **If you are facing this pop message, please click to no, and save you API artifact as version.**
+>  <br>![](/exercises/ex1/images/ex1_53.png)
+
 
 10. Now let's Consume reusable API. Go back to you package **TechEd 2026 IN162-0****.
    Open artifact **TicketCreationAPI_userXXX**.
