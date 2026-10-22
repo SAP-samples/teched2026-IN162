@@ -278,12 +278,15 @@ Usecase / real world example :<br>
 > [!NOTE]
 > In addition to security policies, you can add mediation steps to extend functionality.
 
-6. Now, add **Content modifier** step. and
-
-   add body:  ```We are modeling reusable api artifact.```
+6. Now, add **Content modifier** step. 
+   Search **Content modifier** in below search box.
+   
+   <br>![](/exercises/ex1/images/ex1_49.png)
+   
+   Click to **Message Body**, & add body:  ```We are modeling reusable api artifact.```
 
    
-   <br>![](/exercises/ex1/images/ex1_43.png)
+   <br>![](/exercises/ex1/images/ex1_50.png)
    
 
 7. Next, add **Groovy Script** from search tab.
@@ -305,11 +308,11 @@ Usecase / real world example :<br>
    <br>![](/exercises/ex1/images/ex1_44.png)
    
 
-9. We can now **save** and **deploy** this reusable API artifact.
+10. We can now **save** and **deploy** this reusable API artifact.
 
   
 
-10. Now let's Consume reusable API. Go back to you package **TechEd 2026 IN162-0****.
+11. Now let's Consume reusable API. Go back to you package **TechEd 2026 IN162-0****.
    Open artifact **TicketCreationAPI_userXXX**.
    **Click to Edit and navigate to Policies tab**.
 
