@@ -287,7 +287,7 @@ Usecase / real world example :<br>
    Click to **Message Body**, & add body:  ```We are modeling reusable api artifact.```
 
    
-   <br>![](/exercises/ex1/images/ex1_50.png)
+   <br>![](/exercises/ex1/images/ex1_52.png)
    
 
 7. Next, add **Groovy Script** from search tab.
@@ -309,11 +309,11 @@ Usecase / real world example :<br>
    <br>![](/exercises/ex1/images/ex1_44.png)
    
 
-10. We can now **save** and **deploy** this reusable API artifact.
+9. We can now **save** and **deploy** this reusable API artifact.
 
   
 
-11. Now let's Consume reusable API. Go back to you package **TechEd 2026 IN162-0****.
+10. Now let's Consume reusable API. Go back to you package **TechEd 2026 IN162-0****.
    Open artifact **TicketCreationAPI_userXXX**.
    **Click to Edit and navigate to Policies tab**.
 
