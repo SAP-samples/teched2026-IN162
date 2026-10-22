@@ -283,7 +283,7 @@ Usecase / real world example :<br>
    
    <br>![](/exercises/ex1/images/ex1_49.png)
    
-   Place it as shown in below screenshot,
+   Place this policy as shown in below screenshot,
    Click to **Message Body**, & add body:  ```We are modeling reusable api artifact.```
 
    
@@ -295,7 +295,7 @@ Usecase / real world example :<br>
      <br>![](/exercises/ex1/images/ex1_45.png)
    
   
-8. Place it shown in below screenshot, and click to icon mentioned below.
+8. Place this policy as shown in below screenshot, and click to icon mentioned below.
 
    <br>![](/exercises/ex1/images/ex1_51.png)
    
