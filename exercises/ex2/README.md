@@ -117,8 +117,7 @@ The exercise will typically cover:<br>
    - Duration unit - Duration Unit defines the time unit for the quota period. example  - day.<br>
    - Quota identifier - The quota identifier determines whose requests are counted together. example - This gives every registered banking application client id.<br>
 
-   You can save your artifact now. 
-
+  
 8. **Surge Protection Policy**
 
    <br>![](/exercises/ex2/images/SurgeProtection.jpg)
@@ -145,8 +144,7 @@ The exercise will typically cover:<br>
   - Duration - Defines the numeric length of the period. Together with the duration unit, 1 means one unit of time.<br>
   - Duration Unit - Defines the time unit. 100 calls with a duration of 1 second means a maximum rate of 100 requests per second.<br>
 
-  You can save your artifact now. <br>
-  
+ 
 
 ## Exercise 2.2 Monitor the API Artifact
 
