@@ -313,7 +313,7 @@ Usecase / real world example :<br>
    <br>![](/exercises/ex1/images/ex1_44.png)
    
 
-9. We can now **save** and **deploy** this reusable API artifact.
+9. We can now **save** and **deploy** this reusable API artifact **on Integration cell runtime**.
 
   
 
