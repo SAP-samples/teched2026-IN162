@@ -303,7 +303,7 @@ Usecase / real world example :<br>
 
    <br>![](/exercises/ex1/images/ex1_51.png)
    
-   Provide below script to it.
+   Replace below script to it.
    Script : ```  import com.sap.it.script.v2.api.Message;
                                 def Message processData(Message message) {
                                    return message;
