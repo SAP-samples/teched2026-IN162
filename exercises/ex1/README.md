@@ -283,18 +283,19 @@ Usecase / real world example :<br>
    
    <br>![](/exercises/ex1/images/ex1_49.png)
    
+   Place it as shown in below screenshot,
    Click to **Message Body**, & add body:  ```We are modeling reusable api artifact.```
 
    
    <br>![](/exercises/ex1/images/ex1_50.png)
    
 
-7. Next, add **Groovy Script** from search tab.
+8. Next, add **Groovy Script** from search tab.
 
      <br>![](/exercises/ex1/images/ex1_45.png)
    
   
-8. Click to below icon.
+9. Click to below icon.
 
     <br>![](/exercises/ex1/images/ex1_46.png)
    
