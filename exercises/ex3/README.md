@@ -91,9 +91,7 @@ From the product page,
 <br>![](/exercises/ex3/images/ex3_09.png)
 
 
-5. Now, please wait a few minutes for the credentials to be generated.
-
-   The credentials will be generated after one or two minutes.
+5. The credentials will be generated after one or two minutes.
    
    **Meanwhile please move to exercise 3.3 to check API analytics.**
 
