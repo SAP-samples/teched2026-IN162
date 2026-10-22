@@ -223,6 +223,10 @@ Usecase / real world example :<br>
 🧩 In this exercise, You will create reusable API artifact and deploy it, and the same ServiceNow incidents API artifact, you add a reference to this deployed artifact instead of rebuilding that logic.<br>
 ♻️ The API artifact stays reusable for other APIs, and the existing authentication, validation, quota, and monitoring remain handled centrally.<br><br>
 
+> [!NOTE]
+> why You need reusable artifact - A Reusable API Artifact is like a shared building block for your APIs. You define common logic once—such as security
+> checks, validation, transformation, or logging—and then other API artifacts can call it instead of copying the same configuration again and again.
+
 
 1. Now navigate to your package **TechEd 2026 IN162-0**** and inside **Artifact** tab
    **click to add** new API artifact and now choose another option via **Reusable API**.
