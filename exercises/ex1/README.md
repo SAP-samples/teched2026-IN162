@@ -9,8 +9,8 @@
 
 1. Log on to your assigned SAP Integration Suite tenant<br>
 
-   - [SAP Integration suite tenant for user 001 to user 020](https://workshop02a.integrationsuite-cpi049.cfapps.eu10-003.hana.ondemand.com/shell/home)
-   - [SAP Integration suite tenant for user 021 to user 040](https://workshop02b.integrationsuite-cpi050.cfapps.eu20-002.hana.ondemand.com/shell/home)
+   - [SAP Integration suite tenant for user 001 to user 020](https://url.sap/78ju6v)
+   - [SAP Integration suite tenant for user 021 to user 040](https://url.sap/lek6et)
     
    Log on to the SAP Integration Suite tenant using the user ID and password that has been provided by the instructors.
 
