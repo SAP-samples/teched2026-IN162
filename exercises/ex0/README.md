@@ -35,4 +35,4 @@ More importantly, you will understand how the responsibilities shift across the 
 
 Now that you have short intro about topic & session, 
 Let's start with handson exercises. 
-Continue to - [Exercise 1 - Design & deploy API artifact by different ways](../ex1/README.md#exercise-1---design--deploy-api-artifact-by-different-ways)
+Continue to - [Exercise 1 - Design & deploy API artifact by different ways](../ex1/README.md#exercise-1---design--deploy-api-artifact-using-different-approaches)
