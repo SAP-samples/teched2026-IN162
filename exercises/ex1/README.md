@@ -290,14 +290,14 @@ Usecase / real world example :<br>
    <br>![](/exercises/ex1/images/ex1_50.png)
    
 
-8. Next, add **Groovy Script** from search tab.
+7. Next, add **Groovy Script** from search tab.
 
      <br>![](/exercises/ex1/images/ex1_45.png)
    
   
-9. Click to below icon.
+8. Place it shown in below screenshot, and click to icon mentioned below.
 
-    <br>![](/exercises/ex1/images/ex1_46.png)
+   <br>![](/exercises/ex1/images/ex1_51.png)
    
    Provide below script to it.
    Script : ```  import com.sap.it.script.v2.api.Message;
