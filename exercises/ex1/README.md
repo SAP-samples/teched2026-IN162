@@ -261,7 +261,14 @@ Usecase / real world example :<br>
 
 4. Now, let’s add the security policy JSON Thread Protection policy. Click to **edit**
 
-5. Add **JSON Thread Protection policy** too as shown below:
+5. Add **JSON Threat Protection policy** too as shown below:
+
+   First Click to security policies, and select **Json Threat Protection**, 
+
+  <br>![](/exercises/ex1/images/ex1_48.png)
+
+  We are adding Max Object Count -10000. This will limits the number of key-value properties allowed inside each JSON object.
+  It protects the backend and API artifact from malicious or oversized JSON payloads that could consume excessive memory.
 
    <br>![](/exercises/ex1/images/ex1_42.png)
 
