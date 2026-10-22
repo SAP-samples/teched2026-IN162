@@ -164,7 +164,7 @@ You will get modeling experience of API artifact in SAP Integration Suite via 2n
 2. Select Destination of Service now.
 
 
-<br>![](/exercises/ex1/images/ex1_13.png)  
+<br>![](/exercises/ex1/images/ex1_47.png)  
 
 
 3. Provide following API details and **click to Next**.<br>
