@@ -267,8 +267,10 @@ Usecase / real world example :<br>
 
   <br>![](/exercises/ex1/images/ex1_48.png)
 
-  We are adding Max Object Count -10000. This will limits the number of key-value properties allowed inside each JSON object.
-  It protects the backend and API artifact from malicious or oversized JSON payloads that could consume excessive memory.
+  Place this policy as shown below, 
+  Now go to **Policy Settings**, 
+  We are adding Max Object Count -10000. This will limits the number of key-value properties allowed inside each JSON object.It protects the backend
+  and API artifact from malicious or oversized JSON payloads that could consume excessive memory.
 
    <br>![](/exercises/ex1/images/ex1_42.png)
 
