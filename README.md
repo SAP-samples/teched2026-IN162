@@ -16,7 +16,7 @@ The session begins with an introduction to API-centric integration and the under
 
 There are no dedicated requirement for this session. **You will be able to execute the exercises by just following the steps & descriptions** even if you do not have any experience with SAP Integration Suite.
 
-However, you will be able to derive more value from this session, if you have some knowledge and understanding of API management and cloud integration which are key capabilities of SAP Integration Suite.
+However, you will be able to derive more value from this session, if you have some knowledge and understanding of API Management and Cloud Integration which are key capabilities of SAP Integration Suite.
 
 ## System URL and login information
 
@@ -53,7 +53,7 @@ In case you are not able to access any of these systems please contact the works
     - [Exercise 3.3 - Modern API Analytics](exercises/ex3/README.md#exercise-33-modern-api-analytics)
 - [Exercise 4 - Test the API artifact using Bruno application](exercises/ex4/README.md#exercise-4---test-the-api-artifact-using-bruno-application).
 
-Optional Exercise for ASUG participants - 
+
 
 ## Additional Relevant Sessions
 
