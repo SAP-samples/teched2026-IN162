@@ -263,7 +263,7 @@ Usecase / real world example :<br>
 > endpoint and without external exposure. 
 
 
-4. Now, let’s add the security policy JSON Thread Protection policy. Click to **edit**
+4. Now, let’s add the security policy JSON Threat Protection policy. Click to **edit**
 
 5. Add **JSON Threat Protection policy** too as shown below:
 
