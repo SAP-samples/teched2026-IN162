@@ -188,7 +188,7 @@ This view serves as the primary operational console for managing deployed API Ar
 
 ## Summary
 
-In this exercise, you learned how to secure an API artifact using authentication, authorization, policies, and access controls. You also learned how to monitor API usage, errors, and runtime logs to gain operational visibility and identify issues.
+In this exercise, you learned how to secure an API artifact using authentication, authorization, policies, and access controls. You also learned how to monitor API usage, errors, and runtime logs to gain operational visibility.
 
 At this stage, the API is available on the Integration Cell runtime but it is not yet discoverable by application developers. The next step is to govern its consumption by publishing it through Developer Hub.
 
