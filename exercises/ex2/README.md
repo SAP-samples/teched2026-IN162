@@ -4,8 +4,7 @@
 
 The exercise will typically cover:<br>
 - 🔐 Secure: Configure authentication, authorization, API policies, and access controls to protect the API.<br>
-- 📊 Monitor: Track API usage, message processing, errors, performance, and runtime logs to identify and resolve issues.<br>
-
+- 📊 Monitor: Track API usage, message processing, errors, performance, and runtime logs.<br>
 
 ## Exercise 2.1 Secure the API Artifact.
 
