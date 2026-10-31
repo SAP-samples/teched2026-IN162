@@ -49,7 +49,7 @@ In case you are not able to access any of these systems please contact the works
     - [Exercise 3.3 - Modern API Analytics](exercises/ex3/README.md#exercise-33-modern-api-analytics)
 - [Exercise 4 - Test the API artifact using Bruno application](exercises/ex4/README.md#exercise-4---test-the-api-artifact-using-bruno-application).
 
-
+For ASUG participants - [Enable your API artifact for agentic consumption](https://developers.sap.com/tutorials/teched-developer-garage-mcp-gateway)
 
 ## Additional Relevant Sessions
 
