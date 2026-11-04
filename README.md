@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2026-IN162)](https://api.reuse.software/info/github.com/SAP-samples/teched2026-IN162)
+
 # IN162 - Building API-Centric Integration Flows with SAP Integration Suite.
 
 ## Description
